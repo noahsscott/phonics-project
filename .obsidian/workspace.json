@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
+                "file": "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EB Teaching Guide for Phonics and Reading to Bilingual Children in HK"
+              "title": "Phonics Flashcard Guide for Cantonese-Speaking Children in HK"
+            }
+          },
+          {
+            "id": "4c207bde0f835861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,19 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b1e8d33125e8177",
+  "active": "4c207bde0f835861",
   "lastOpenFiles": [
-    "01-research/Enhancement guide",
-    "Screenshot 2025-08-06 at 6.40.16 pm.jpg",
-    "01-research/Enhancement guide/Basic Memory Enhancement Quick Reference.md",
-    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
-    "STAGING",
+    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Enhanced.md",
+    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean.md",
+    "01-research/Research enhancement template.md",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
-    "01-research/Research docs/research_doc_template.md",
-    "01-research/Current status.md",
+    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
+    "01-research/Deprecated",
+    "01-research/Research docs/TBD EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
+    "Rough project history.md",
+    "00-project-overview/General Documentation Template.md",
     "01-research/Research to date overview.md",
-    "README.md",
     "01-research/research_README.md",
+    "01-research/Current status.md",
+    "01-research/Enhancement guide/Basic Memory Enhancement Quick Reference.md",
+    "01-research/Untitled.md",
+    "01-research/Research docs/research_doc_template.md",
+    "Screenshot 2025-08-06 at 6.40.16 pm.jpg",
+    "README.md",
+    "01-research/Enhancement guide",
+    "STAGING",
     "01-research/Research docs",
     "01-research/current",
     "01-research/compass_artifact_wf-1ac7373e-ee56-4d97-95b9-4aac12939b35_text_markdown.md",

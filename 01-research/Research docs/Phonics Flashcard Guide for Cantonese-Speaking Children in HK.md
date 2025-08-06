@@ -6,6 +6,8 @@
 
 
 
+--- Start of research ---
+
 Creating effective phonics flashcards for Cantonese-speaking children requires specific word lists, careful progression planning, and targeted adaptations for L1 interference patterns. This research provides concrete word lists from established programs and Hong Kong-specific implementation strategies.
 
 ## Established program word lists reveal core progressions
