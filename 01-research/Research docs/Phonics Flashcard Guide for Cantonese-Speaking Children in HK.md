@@ -1,3 +1,9 @@
+### Goals of the research
+- Getting actual word lists from 2-3 established programs for comparison
+- Finding the specific sight word sequences used for ESL learners
+- Identifying exact criteria for book-phonics level matching
+- Looking for any Hong Kong or Cantonese-specific validated materials
+
 
 
 Creating effective phonics flashcards for Cantonese-speaking children requires specific word lists, careful progression planning, and targeted adaptations for L1 interference patterns. This research provides concrete word lists from established programs and Hong Kong-specific implementation strategies.

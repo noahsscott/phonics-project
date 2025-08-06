@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/research_README.md",
+                "file": "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research_README"
+              "title": "EB Teaching Guide for Phonics and Reading to Bilingual Children in HK"
             }
           }
         ]
@@ -168,13 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80c6fa111383506d",
+  "active": "4b1e8d33125e8177",
   "lastOpenFiles": [
-    "README.md",
-    "01-research/Current status.md",
+    "01-research/Enhancement guide",
+    "Screenshot 2025-08-06 at 6.40.16 pm.jpg",
+    "01-research/Enhancement guide/Basic Memory Enhancement Quick Reference.md",
     "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
-    "01-research/research_README.md",
+    "STAGING",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
+    "01-research/Research docs/research_doc_template.md",
+    "01-research/Current status.md",
+    "01-research/Research to date overview.md",
+    "README.md",
+    "01-research/research_README.md",
     "01-research/Research docs",
     "01-research/current",
     "01-research/compass_artifact_wf-1ac7373e-ee56-4d97-95b9-4aac12939b35_text_markdown.md",

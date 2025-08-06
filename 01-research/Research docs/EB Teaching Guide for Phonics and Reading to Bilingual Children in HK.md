@@ -1,18 +1,57 @@
-Conducted: Wednesday 6 August 2025
-##### What this research establishes:
-- ✅ Clear evidence for synthetic phonics methodology
-- ✅ General progression sequence (SATPIN → phases)
-- ✅ Understanding of Cantonese-specific challenges
-- ✅ Best practices for flashcard design and use
-###### What we're missing for practical implementation:
-1. **Exact word lists by phonics pattern** - We know the sequence but not the specific words to include at each level
-2. **Validated sight word progression for ESL learners** - We have general targets but not the specific words in order
-3. **Decodability percentages** - How to determine if a book matches a phonics level
-4. **Cross-referencing with ORT levels** - Specific mapping between phonics phases and ORT stages
 
+# EB Teaching Guide for Phonics and Reading to Bilingual Children in HK
 
+![[Screenshot 2025-08-06 at 6.40.16 pm.jpg]]
+<mark class="hltr-yellow">(!Edit required: I want to have a properties section like this image at the top of every doc - question would this be overlap or possinle to combine with the document metadata below? As for tags just leave a placheholder for them now and we will come back to that later.)</mark>
 
--------
+> [!abstract] Research Document Metadata
+> | **Document ID**    | RD-001                                                                                    |
+|--------------------|-------------------------------------------------------------------------------------------|
+| **Title**          | EB Teaching Guide for Phonics and Reading to Bilingual Children in HK                     |
+| **Date Conducted** | 06/08/2025                                                                                |
+| **Status**         | ✅ Up to date                                                                              |
+| **Reviewed**       | ✅ Yes (06/08/2025)                                                                        |
+| **Review Notes**   | Comprehensive coverage of phonics teaching methodology and theory |
+
+### Research Context
+**Trigger**: Initial project planning - need to understand best practices for teaching phonics to Cantonese-speaking children
+**Previous Doc**: N/A - Initial research
+**Next Doc**: RD-002 - Phonics Flashcard Guide for Cantonese-Speaking Children in HK <mark class="hltr-yellow">(!Edit required: We need to use the relative link to this document once its created)</mark>
+
+### Research Goals & Outcomes
+| Goal | Description                                      | Success Criteria                                                            | Achieved | Evidence/Notes                                                                              |
+| ---- | ------------------------------------------------ | --------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------- |
+| 1    | **Establish evidence-based phonics methodology** | Identify which approach (synthetic/analytic) has strongest research support | ✅ Yes    | Synthetic phonics shows effect size d=0.41, particularly effective for ESL                  |
+| 2    | **Determine progression sequence**               | Clear, validated sequence from letters to complex patterns                  | ✅ Yes    | SATPIN → UK Letters & Sounds phases established                                             |
+| 3    | **Understand Cantonese-specific challenges**     | Identify 5+ L1 interference patterns                                        | ✅ Yes    | Documented missing phonemes (/v/, /z/, /θ/, /ð/, /r/), consonant clusters, final consonants |
+| 4    | **Establish flashcard best practices**           | Design specifications and usage guidelines                                  | ✅ Yes    | 3"×5" cards, no pictures, spaced repetition schedule defined                                |
+|      |                                                  |                                                                             |          |                                                                                             |
+
+### Key Findings Summary
+**Methodology Selected**: Synthetic phonics (60%) with analytic support (30%) and contextual application (10%)
+
+**Critical Insights**: 
+- 95% of children can learn to read with systematic instruction vs 30% without
+- 63% of "sight words" are actually decodable
+- Critical intervention window is ages 5-8 due to neural plasticity
+
+**Immediate Applications**: 
+- Begin with SATPIN letter sequence
+- Use multi-sensory approaches for Cantonese speakers
+- Implement spaced repetition (Days 1, 2, 4, 11, 25)
+
+**Gaps Remaining**: 
+- Specific word lists for each phonics pattern, level
+- Complete sight word progression for ESL learners
+- Cross-reference mapping between phonics phases and ORT levels
+
+## Dependencies & Connections
+**Builds on**: Contemporary reading science research, UK Letters & Sounds framework, Jolly Phonics methodology
+**Enables**: Creation of targeted flashcards, session planning, assessment protocols
+**Related Docs**: RD-002 (Flashcard Guide), Future: Word lists documentation, Assessment tools <mark class="hltr-yellow">(!Edit required: We need to use the relative link to this document once its created)</mark>
+
+---
+# Teaching Phonics and Reading to Bilingual Children in Hong Kong: An Evidence-Based Guide for Independent Tutors
 
 ## The science of early reading has transformed dramatically
 
