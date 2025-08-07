@@ -1,52 +1,14 @@
----
-title: Phonics Flashcard Guide for Cantonese-Speaking Children in HK
-type: Research
-entity_type: research-document
-permalink: 01-research/research-docs/phonics-flashcard-guide-cantonese-hk
-status: ✅ Completed
-created: 2025-08-06
-modified: 2025-08-06
-tags:
-  - phonics
-  - flashcards
-  - esl-materials
----
+### Goals of the research
+- Analysing actual word lists from 2-3 established programs for comparison
+- Finding the specific sight word sequences used for ESL learners
+- Identifying exact criteria for book-phonics level matching
+- Looking for any Hong Kong or Cantonese-specific validated materials
 
-> [!abstract] Research Overview
-> | **Document ID**    | RD-002                                     |
-> |--------------------|-------------------------------------------|
-> | **Status**         | ✅ Completed (06/08/2025)                 |
-> | **Purpose**        | Create concrete word lists and flashcard specifications for Cantonese-speaking children |
-> | **Key Decision**   | Use New Dolch List (875 words) for ESL learners with 80-90% decodability standard |
 
-## 🎯 Research Objectives & Results
 
-**Research triggered by**: Following RD-001's [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean]] establishment of synthetic phonics methodology, specific word lists and flashcard materials were needed. The gap identified was lack of concrete, sequenced vocabulary lists adapted for Cantonese L1 interference patterns.
+--- Start of research ---
 
-| Objective | Success Criteria | Result | Evidence |
-| --------- | --------------- | ------ | -------- |
-| Analyse established program word lists | Compare 2-3 major programs | ✅ Achieved | Jolly Phonics, Letters & Sounds, ORT sequences documented |
-| Find ESL-specific sight word sequences | Identify validated ESL progressions | ✅ Achieved | New Dolch List (NDL) - 90% text coverage vs 70% traditional |
-| Define book-phonics matching criteria | Clear decodability percentages | ✅ Achieved | 80-90% decodability standard, 93-97% reading accuracy target |
-| Locate HK/Cantonese-specific materials | Find validated local adaptations | ✅ Achieved | PLP-R, Space Town programmes, local publisher adaptations |
-
-## 💡 Key Findings for Implementation
-
-1. **Word progressions converge**: All major programs start with SATPIN, then diverge slightly - Jolly Phonics uses 7 groups, Letters & Sounds has 6 phases with 69+ words by Phase 2
-2. **New Dolch List superior for ESL**: 875 words provide 90% text coverage (vs 70% for traditional Dolch) from modern corpus including YouTube content
-3. **80-90% decodability optimal**: Below 80% frustrates learners, above 90% unnecessary - transition to regular texts by end Grade 1
-4. **HK materials address specific needs**: Local programs target absent phonemes (/v/, /z/, /θ/, /ð/, /r/) and consonant cluster difficulties systematically
-
-## 📋 Next Actions Required
-
-- [ ] Create flashcard sets: 26 single letters → 50-60 CVC by vowel → digraphs → blends (20-30 words per pattern)
-- [ ] Develop Cantonese interference word lists: /v/ practice (valuable, cave), /z/ practice (freezer, cosy), clusters (street, proud)
-- [ ] Build spaced repetition tracking system: Day 1, 2, 4, 11, 25 review schedule
-- [ ] Design assessment checkpoints: 93-97% accuracy threshold for progression decisions
-- [ ] Create parent guides showing NDL word progression with Hong Kong contexts
-
----
-# Creating effective phonics flashcards for Cantonese-speaking children requires specific word lists, careful progression planning, and targeted adaptations for L1 interference patterns. This research provides concrete word lists from established programs and Hong Kong-specific implementation strategies.
+Creating effective phonics flashcards for Cantonese-speaking children requires specific word lists, careful progression planning, and targeted adaptations for L1 interference patterns. This research provides concrete word lists from established programs and Hong Kong-specific implementation strategies.
 
 ## Established program word lists reveal core progressions
 
@@ -223,10 +185,7 @@ The Curriculum Corner. (2024). *Fry or Dolch sight words?* https://www.thecurric
 
 Third Space Learning. (2024). *A teacher's guide to spaced repetition*. https://thirdspacelearning.com/us/blog/spaced-repetition/
 
-Wikipedia. (2024). *Spaced repetition*. https://en.wikipedia.org/wiki/Spaced_repetition
+Wikipedia. (2024). *Spaced repetition*. https://en.wikipedia.org/wiki/Spaced_repetition\
 
----
-## 🔗 Related Documents
-- **Builds on**: [[memory://01-research/research-docs/eb-teaching-guide-phonics-bilingual-hk]] - EB Teaching Guide for Phonics and Reading
-- **Next**: [[memory://materials/flashcards]] - Create actual flashcard materials and session implementation guides (planned)
-- **Supports**: [[memory://materials/parent-guides]] - Parent guides and home practice materials (planned)
+
+--- End of research ---

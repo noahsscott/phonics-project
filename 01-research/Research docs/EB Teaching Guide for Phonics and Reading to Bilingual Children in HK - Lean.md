@@ -1,14 +1,16 @@
 ---
 title: EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean
 type: Research
-permalink: 01-research/research-docs/eb-teaching-guide-phonics-bilingual-hk-lean
-status: ✅ Completed
+permalink: 01-research/research-docs/eb-teaching-guide-phonics-bilingual-hk
+entity_type: research-document
+status:
+  - ✅ Completed
 created: 2025-08-06
 modified: 2025-08-06
 tags:
-- phonics
-- bilingual-education
-- teaching-methodology
+  - phonics
+  - bilingual-education
+  - teaching-methodology
 ---
 
 > [!abstract] Research Overview
@@ -19,16 +21,17 @@ tags:
 > | **Key Decision**   | Synthetic phonics primary approach (60%), supplemented with analytic methods (30%) |
 
 ## 🎯 Research Objectives & Results
-**Research triggered by**: Initial project planning - Need to understand best practices for teaching phonics to Cantonese-speaking children in Hong Kong context for one-on-one tutoring
+
+**Research triggered by**: Initial project planning required understanding of best practices for teaching phonics to Cantonese-speaking children. No previous research existed as this is the foundational document for the project.
 
 | Objective | Success Criteria | Result | Evidence |
 | --------- | --------------- | ------ | -------- |
 | Identify best phonics methodology | Research-backed approach for ESL | ✅ Achieved | Synthetic phonics shows stronger outcomes (NICHD 2000, Ehri et al. 2001) |
 | Establish teaching sequence | Clear progression from simple to complex | ✅ Achieved | SATPIN → UK Letters & Sounds phases validated |
-| Document L1 interference patterns | Identify Cantonese-specific challenges | ✅ Achieved | Missing phonemes: /v/, /z/, /θ/, /ð/, /r/; no consonant clusters |
+| Document L1 interference patterns | Identify 5+ Cantonese-specific challenges | ✅ Achieved | Missing phonemes: /v/, /z/, /θ/, /ð/, /r/; no consonant clusters |
 | Define flashcard specifications | Evidence-based design guidelines | ✅ Achieved | 3"×5", no pictures, spaced repetition schedule |
 
-## 💡 Key Findings
+## 💡 Key Findings for Implementation
 
 1. **Methodology**: Synthetic phonics most effective for ESL learners - teaching individual sounds before blending
 2. **Critical window**: Ages 5-8 show highest neural plasticity for reading acquisition  
@@ -37,10 +40,10 @@ tags:
 
 ## 📋 Next Actions Required
 
-- [ ] Create decodable word lists organised by phonics pattern (Set 1: SATPIN, Set 2: MDGOCK, etc.)
+- [ ] Create decodable word lists organized by phonics pattern (Set 1: SATPIN, Set 2: MDGOCK, etc.)
 - [ ] Develop sight word progression mapping decodable vs. irregular for each phase
 - [ ] Build assessment rubrics for letter knowledge, phonological awareness, and decoding skills
-- [ ] Design multi-sensory materials for Cantonese-specific sounds (/v/, /θ/, /ð/, /r/)
+- [ ] Design multisensory materials for Cantonese-specific sounds (/v/, /θ/, /ð/, /r/)
 - [ ] Create session planning templates using identified time structure
 
 ---
@@ -586,6 +589,6 @@ Wondershare. (2024). *What is a flashcard? Dimensions and their role in study an
 
 ---
 ## 🔗 Related Documents
-- **Next**: RD-002 - Phonics Flashcard Guide for Cantonese-Speaking Children in HK (planned)
-- **Implements**: Session planning templates (to be created)
-- **Supports**: Assessment rubrics and tracking tools (to be created)
+- **Next**: [[memory://01-research/research-docs/phonics-flashcard-guide-cantonese-hk]] - Phonics Flashcard Guide for Cantonese-Speaking Children in HK
+- **Implements**: [[memory://materials/session-plans]] - Session planning templates (planned)
+- **Supports**: [[memory://materials/assessment-tools]] - Assessment rubrics and tracking tools (planned)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
+                "file": "01-research/Deprecated/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean.md",
+                "file": "01-research/Deprecated/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean"
+              "title": "Phonics Flashcard Guide for Cantonese-Speaking Children in HK"
             }
           }
         ],
@@ -185,24 +185,28 @@
   },
   "active": "4c207bde0f835861",
   "lastOpenFiles": [
-    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Enhanced.md",
-    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean.md",
-    "01-research/Research enhancement template.md",
+    "00-project-overview/Phonics and Flashcards Project Brief.md",
+    "01-research/Templates/Research Doc Template.md",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
-    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
-    "01-research/Deprecated",
-    "01-research/Research docs/TBD EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
-    "Rough project history.md",
+    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean.md",
+    "01-research/Deprecated/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
     "00-project-overview/General Documentation Template.md",
+    "01-research/Rough project history.md",
+    "01-research/Current status.md",
     "01-research/Research to date overview.md",
     "01-research/research_README.md",
-    "01-research/Current status.md",
-    "01-research/Enhancement guide/Basic Memory Enhancement Quick Reference.md",
+    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Enhanced.md",
+    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
+    "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
+    "01-research/Deprecated/Research enhancement template.md",
+    "01-research/Deprecated/Basic Memory Enhancement Quick Reference.md",
+    "01-research/Deprecated",
+    "01-research/Research docs/TBD EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
     "01-research/Untitled.md",
     "01-research/Research docs/research_doc_template.md",
     "Screenshot 2025-08-06 at 6.40.16 pm.jpg",
     "README.md",
-    "01-research/Enhancement guide",
+    "01-research/Templates",
     "STAGING",
     "01-research/Research docs",
     "01-research/current",
