@@ -1,7 +1,7 @@
 ---
 title: Phonics and Flashcards Project Brief
 type: Overview
-permalink: 00-project-overview/phonics-flashcards-project-brief
+permalink: 00-project-overview/project-brief
 entity_type: project-document
 status:
   - 🔄 In Progress

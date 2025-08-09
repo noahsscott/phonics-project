@@ -27,17 +27,15 @@ The New Dolch List (NDL) is a collection of high-frequency English vocabulary co
 ## 🎨 How can I use it?
 Use the NDL to:
 1. **Create flashcard sets** - Group sight words by frequency bands (1-100, 101-300, etc.) for systematic teaching
-2. **Complement phonics** - Effective instructions requires a mix of decodable phonics words AND sight words. 
-3. **Assess competency** - When students know the top 315 sight words words, they can recognise ~78% of words in typical children's texts
+2. **Complement phonics** - Effective instruction requires a mix of decodable phonics words AND sight words
+3. **Assess competency** - Track mastery of high-frequency words using rank numbers and coverage milestones
 
 
 ## 🎯 Why was it selected?
-- **Coverage**: Provides 90% coverage of children's written texts and even higher coverage for children's TV and YouTube videos 
-- **Modern relevance**: Updated for contemporary English usage, unlike the original Dolch list from the 1940s
-- **ESL-friendly**: Specifically considers the needs of English as Second Language learners
+- **Modern coverage**: Provides 90% coverage of current children's texts and media (vs 70% for outdated 1936 Dolch list)
+- **ESL/Hong Kong context**: Designed for ESL learners; addresses irregular words that Cantonese L1 speakers cannot decode phonetically
 - **Data-driven**: Includes frequency data (SFI scores and per-million counts) enabling prioritised teaching
 - **Alignment**: Supports dual approach of phonics instruction + sight word recognition for reading fluency
-- **Hong Kong context**: Many of these high-frequency words are irregular and cannot be decoded phonetically, requiring explicit teaching for Cantonese L1 learners
 
 
 ## 📚 Research Basis
@@ -64,10 +62,10 @@ Use the NDL to:
 #### 📋 Data Structure
 | Field            | Type    | Description                    | Notes                                                   |
 | ---------------- | ------- | ------------------------------ | ------------------------------------------------------- |
-| Rank             | Integer | Word frequency ranking (1-874) | Lower rank = more frequent                              |
+| Rank             | Integer | Word frequency ranking (1-874) |                              |
 | Word             | String  | The sight word                 | Some entries are lemmas (e.g., "be" includes am/is/are) |
 | SFI              | Float   | Standard Frequency Index       | Higher SFI = more frequent (logarithmic scale)          |
-| U (Freq/million) | Integer | Occurrences per million words  | Raw frequency data for corpus analysis                  |
+| U (Freq/million) | Integer | Occurrences per million words  |                   |
 
 ![[New Dolch List 1.1.csv]]
 
@@ -85,14 +83,8 @@ Use the NDL to:
 ## ❗Limitations & Considerations
 - **Irregular spellings**: Many high-frequency words (the, of, was, said) cannot be fully decoded using phonics rules
 - **Corpus variation**: Frequency data based on general corpus; specific books/materials may vary significantly
-- **L1 interference for Cantonese speakers** (varying by home language exposure):
-  - Words with /v/ sound (very, have, give) need extra practice
-  - Words with /z/ sound (is, was, these) often mispronounced as /s/
-  - Words with th sounds /θ/ /ð/ (the, this, that, with) require explicit articulation training
-  - Words with /r/ sound (for, from, very) may be confused with /w/ or /l/
-  - Note: Children with more English exposure at home may have fewer of these challenges
-- **Developmental appropriateness**: Not all 874 words suitable for youngest learners (e.g., "adjective" at rank 711)
-- **Cultural relevance**: Some words may need contextualisation for Hong Kong students (e.g., "cookie" vs "biscuit")
+- **L1 interference for Cantonese speakers**: Common pronunciation challenges include /v/ (very, have), /z/ (is, was), th sounds /θ/ /ð/ (the, this, that), and /r/ (for, from). Children with more English exposure at home may have fewer challenges
+- **Contextual considerations**: Not all 874 words are developmentally appropriate for youngest learners (e.g., "adjective" at rank 711), and some require cultural adaptation for Hong Kong students (e.g., "cookie" vs "biscuit")
 
 
 ---

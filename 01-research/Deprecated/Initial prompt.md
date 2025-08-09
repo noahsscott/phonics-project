@@ -1,4 +1,4 @@
-This was used to make the [[Phonics and Flashcards Project Brief]] and originally led to the creation of the first piece of research [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK]].
+This was used to make the [[Project Brief]] and originally led to the creation of the first piece of research [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK]].
 
 
 Orignal prompt 

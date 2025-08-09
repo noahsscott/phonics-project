@@ -1,6 +1,6 @@
 ---
 type: Template
-permalink: 01-research/templates/research-doc-template
+permalink: 01-research/deprecated/research-doc-template
 entity_type: template
 status:
   - ✅ Completed

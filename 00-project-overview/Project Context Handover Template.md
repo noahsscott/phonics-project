@@ -72,11 +72,11 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 4. Design assessment rubrics and progress tracking
 
 ## Key Documents to Reference
-- Project Brief: [[Phonics and Flashcards Project Brief]]
+- Project Brief: [[Project Brief]]
 - Teaching Guide: [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK]]
 - Flashcard Guide: [[Phonics Flashcard Guide for Cantonese-Speaking Children in HK]]
 - Research Template: [[Research Doc Template]]
-- General Template: [[General Documentation Template]]
+- General Template: [[General Doc Template]]
 
 ## What I Need Help With
 Now I have a CSV with the New Dolch List (NDL) v1.1 of words are a list of high frequency English sight words commonly used to teach children to read. I need a template that would be suitable for resources like this as it does not fit neatly within the general doc template or research doc template. The key is keeping it lean, maintainable and readable while also leveraging basic memory features. You can see my rough start of the NDL resource doc here "01-research/resources/new-dolch-list-1.1" with some questions marked for consideration. Let me know if you can find this first and lets discuss some ideas before we modify anything.
