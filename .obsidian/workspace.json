@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-project-overview/Project Context Handover Template.md",
+                "file": "00-project-overview/AI Guides/Project Context Handover Template.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Templates/General Doc Template.md",
+                "file": "01-research/Deprecated/General Doc Template.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Templates/General Doc Template.md",
+                "file": "00-project-overview/ai-guides/Updated Project Context Handover Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Doc Template"
+              "title": "Updated Project Context Handover Template"
             }
           }
         ],
@@ -200,19 +200,25 @@
   },
   "active": "5dc7733662d769b1",
   "lastOpenFiles": [
-    "01-research/Templates/Research Document Template.md",
-    "01-research/Templates/Resource Document Template.md",
-    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
-    "01-research/Deprecated/Research Doc Template.md",
-    "01-research/Templates/Updated Research Doc Template.md",
-    "01-research/Templates/General Doc Template.md",
+    "00-project-overview/AI Guides/Project Context Handover Template.md",
+    "00-project-overview/AI Guides/Project Documentation Style Guide.md",
+    "00-project-overview/ai-guides/Updated Project Context Handover Template.md",
+    "00-project-overview/ai-guides",
+    "00-project-overview/AI Guides",
     "00-project-overview/Project Brief.md",
+    "01-research/Current status.md",
+    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
+    "01-research/Templates/General Document Template.md",
+    "01-research/Deprecated/General Doc Template.md",
+    "01-research/Templates/Resource Document Template.md",
+    "01-research/Templates/Research Document Template.md",
+    "01-research/Deprecated/Research Doc Template.md",
     "01-research/Resources/New Dolch List (NDL) 1.1.md",
+    "01-research/Templates/Updated Research Doc Template.md",
     "00-project-overview/Future improvements.md",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
     "01-research/Deprecated/New Dolch List 1.1.md",
     "01-research/Templates/Resource Data Template.md",
-    "00-project-overview/Project Context Handover Template.md",
     "New Dolch List 1.1 3.csv",
     "New Dolch List 1.1 2.csv",
     "New Dolch List 1.1 1.csv",
@@ -221,9 +227,7 @@
     "01-research/Resources/New Dolch List 1.1.csv",
     "01-research/Resources",
     "01-research/Deprecated/Initial prompt.md",
-    "01-research/Deprecated/General Doc Template.md",
     "01-research/Research to date overview.md",
-    "01-research/Current status.md",
     "2025-08-07.md",
     "01-research/research_README.md",
     "01-research/Deprecated/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
@@ -231,11 +235,7 @@
     "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Enhanced.md",
     "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
     "01-research/Deprecated/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
-    "01-research/Deprecated/Research enhancement template.md",
     "01-research/Deprecated",
-    "01-research/Research docs/TBD EB Teaching Guide for Phonics and Reading to Bilingual Children in HK 1.md",
-    "Screenshot 2025-08-06 at 6.40.16 pm.jpg",
-    "01-research/Templates",
-    "STAGING"
+    "Screenshot 2025-08-06 at 6.40.16 pm.jpg"
   ]
 }

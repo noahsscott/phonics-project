@@ -5,7 +5,7 @@ permalink: 01-research/templates/research-doc-template
 entity_type: template
 status:
   - ✅ Completed
-created: 2025-08-09
+created: 2025-08-06
 modified: 2025-08-09
 tags:
   - template

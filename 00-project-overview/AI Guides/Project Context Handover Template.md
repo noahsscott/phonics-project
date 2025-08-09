@@ -1,15 +1,15 @@
 ---
 title: Project Context Handover Template
 type: Template
-permalink: 00-project-overview/project-context-handover-template
+permalink: 00-project-overview/ai-guides/project-context-handover-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
 modified: 2025-08-07
 tags:
-- template
-- handover
-- context
+  - template
+  - handover
+  - context
 ---
 
 > [!abstract] Purpose
@@ -79,10 +79,7 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 - General Template: [[General Doc Template]]
 
 ## What I Need Help With
-Now I have a CSV with the New Dolch List (NDL) v1.1 of words are a list of high frequency English sight words commonly used to teach children to read. I need a template that would be suitable for resources like this as it does not fit neatly within the general doc template or research doc template. The key is keeping it lean, maintainable and readable while also leveraging basic memory features. You can see my rough start of the NDL resource doc here "01-research/resources/new-dolch-list-1.1" with some questions marked for consideration. Let me know if you can find this first and lets discuss some ideas before we modify anything.
-- [Specific task or question]
-- [Area needing development]
-- [Problem to solve]
+!!! Write here !!!
 
 ## ──────────────────── COPY TO HERE 📋
 

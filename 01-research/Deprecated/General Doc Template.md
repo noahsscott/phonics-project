@@ -1,6 +1,6 @@
 ---
 type: Template
-permalink: 01-research/templates/general-doc-template
+permalink: 01-research/deprecated/general-doc-template
 entity_type: template
 status: 🚧 Under review
 created: 2025-08-07
