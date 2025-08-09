@@ -4,7 +4,7 @@ permalink: 01-research/resources/new-dolch-list-1.1
 entity_type: resource-data
 status: 🚧 Under review
 created: 2025-08-07
-modified: 2025-08-08
+modified: 2025-08-09
 tags:
   - resource
   - sight-words
@@ -21,18 +21,24 @@ tags:
 
 
 ## 🔍 What is this resource?
-The New Dolch List (NDL) is a collection of high-frequency English vocabulary commonly used to teach children to read. It's an updated, evidence-based revision of the original Dolch sight words list (1936-1948), specifically designed for modern English usage and ESL learners. These words appear most frequently in children's books, educational materials, and media. Learning to recognise them automatically facilitates reading fluency and comprehension. **This list is used to create flashcards, select sight words for explicit teaching, and prioritise vocabulary instruction based on frequency data.**
-
-(!Idea: You are right about needing a very clear "purpose of this resource" and/or "how to use this resource" type sections. Can you have a try at creating those without adding too much bloat?)
+The New Dolch List (NDL) is a collection of high-frequency English vocabulary commonly used to teach children to read. It's an updated, evidence-based revision of the original Dolch sight words list (1936-1948), specifically designed for modern English usage and ESL learners. These words appear most frequently in children's books, educational materials, and media. Learning to recognise them automatically facilitates reading fluency and comprehension.
 
 
-## 🎯 Why was it selected for this project?
+## 🎨 How can I use it?
+Use the NDL to:
+1. **Create flashcard sets** - Group sight words by frequency bands (1-100, 101-300, etc.) for systematic teaching
+2. **Complement phonics** - Effective instructions requires a mix of decodable phonics words AND sight words. 
+3. **Assess competency** - When students know the top 315 sight words words, they can recognise ~78% of words in typical children's texts
+
+
+## 🎯 Why was it selected?
 - **Coverage**: Provides 90% coverage of children's written texts and even higher coverage for children's TV and YouTube videos 
 - **Modern relevance**: Updated for contemporary English usage, unlike the original Dolch list from the 1940s
 - **ESL-friendly**: Specifically considers the needs of English as Second Language learners
 - **Data-driven**: Includes frequency data (SFI scores and per-million counts) enabling prioritised teaching
-- **Alignment**: Supports our dual approach of phonics instruction + sight word recognition for reading fluency
+- **Alignment**: Supports dual approach of phonics instruction + sight word recognition for reading fluency
 - **Hong Kong context**: Many of these high-frequency words are irregular and cannot be decoded phonetically, requiring explicit teaching for Cantonese L1 learners
+
 
 ## 📚 Research Basis
 - **Why frequency matters**: Children need to know at least 95% of words in a text to successfully guess meaning of unknown words from context (Nation & Waring, 1997)
@@ -69,15 +75,6 @@ The New Dolch List (NDL) is a collection of high-frequency English vocabulary co
 
 ## 🔍 Implementation Notes
 
-### Suggested Usage:
-- **Parallel teaching**: Use sight words alongside phonics decodable words, not as replacement
-- **Age-based progression**:
-  - Ages 3-5: Focus on top 100 words through games and repetition
-  - Ages 5-7: Expand to top 300 words with reading practice
-  - Ages 7-8: Complete list with focus on application in writing
-- **Frequency bands**: Create flashcard sets by bands (e.g., 1-100, 101-300, 301-500, 501-874)
-- **Assessment**: Use quick recognition drills (2-3 seconds per card) to measure automaticity
-
 ### Integration with Teaching Method:
 - **SATPIN alignment**: Identify NDL words that are decodable using current phonics progression
 - **Tricky words**: Introduce high-frequency irregular words as sight words requiring memorisation
@@ -85,7 +82,7 @@ The New Dolch List (NDL) is a collection of high-frequency English vocabulary co
 - **Contextual learning**: Always present sight words within meaningful sentences initially
 - **Progress tracking**: Maintain separate records for phonics decoding vs sight word recognition
 
-## Limitations & Considerations
+## ❗Limitations & Considerations
 - **Irregular spellings**: Many high-frequency words (the, of, was, said) cannot be fully decoded using phonics rules
 - **Corpus variation**: Frequency data based on general corpus; specific books/materials may vary significantly
 - **L1 interference for Cantonese speakers** (varying by home language exposure):
