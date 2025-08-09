@@ -1,12 +1,11 @@
 ---
-title: Research Doc Template
 type: Template
-entity_type: template
 permalink: 01-research/templates/research-doc-template
+entity_type: template
 status:
   - ✅ Completed
 created: 2025-08-06
-modified: 2025-08-07
+modified: 2025-08-08
 tags:
   - template
   - research
@@ -23,7 +22,7 @@ tags:
 7. Related Documents: Only include "Builds on" if there's a previous doc
 -->
 
-> [!abstract] Research Overview
+> [!doc-research] Research Overview
 > | **Document ID**    | RD-XXX                                     |
 > |--------------------|-------------------------------------------|
 > | **Status**         | ✅ Completed / ⚠️ Needs Review / 🔄 In Progress |

@@ -1,18 +1,18 @@
 ---
 title: Phonics Flashcard Guide for Cantonese-Speaking Children in HK
 type: Research
-entity_type: research-document
 permalink: 01-research/research-docs/phonics-flashcard-guide-cantonese-hk
+entity_type: research-document
 status: ✅ Completed
 created: 2025-08-06
-modified: 2025-08-06
+modified: 2025-08-08
 tags:
   - phonics
   - flashcards
   - esl-materials
 ---
 
-> [!abstract] Research Overview
+> [!doc-research] Research Overview
 > | **Document ID**    | RD-002                                     |
 > |--------------------|-------------------------------------------|
 > | **Status**         | ✅ Completed (06/08/2025)                 |
@@ -21,7 +21,7 @@ tags:
 
 ## 🎯 Research Objectives & Results
 
-**Research triggered by**: Following RD-001's [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean]] establishment of synthetic phonics methodology, specific word lists and flashcard materials were needed. The gap identified was lack of concrete, sequenced vocabulary lists adapted for Cantonese L1 interference patterns.
+**Research triggered by**: Following RD-001's [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK]] establishment of synthetic phonics methodology, specific word lists and flashcard materials were needed. The gap identified was lack of concrete, sequenced vocabulary lists adapted for Cantonese L1 interference patterns.
 
 | Objective | Success Criteria | Result | Evidence |
 | --------- | --------------- | ------ | -------- |

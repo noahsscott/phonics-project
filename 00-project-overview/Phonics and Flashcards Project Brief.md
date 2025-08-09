@@ -1,15 +1,16 @@
 ---
 title: Phonics and Flashcards Project Brief
-type: Project Overview
+type: Overview
 permalink: 00-project-overview/phonics-flashcards-project-brief
 entity_type: project-document
-status: "\U0001F504 In Progress"
+status:
+  - 🔄 In Progress
 created: 2025-08-07
 modified: 2025-08-07
 tags:
-- project-overview
-- phonics
-- flashcards
+  - project-overview
+  - phonics
+  - flashcards
 ---
 
 > [!abstract] Project Overview
@@ -20,9 +21,10 @@ tags:
 > | **Setting**        | One-on-one home tutoring (60-90 mins) |
 > | **Student Language Context** | Mainly bilingual (Cantonese-English) |
 
+
 ## 🎯 Project Goals
 
-**Primary Objective**: Develop an evidence-based, systematic approach to teaching phonics and reading through flashcards for young bilingual learners in Hong Kong.
+**Primary Objective**: Develop an evidence-based, systematic approach to teaching phonics and reading through flashcards for young, mainly bilingual learners in Hong Kong.
 
 **Specific Goals**:
 1. Create a comprehensive flashcard system covering both decodable (phonics) and sight words
@@ -35,7 +37,7 @@ tags:
 
 - **Age Range**: 3-8 years old
 - **Language Background**: 
-  - Bilingual households (Cantonese-English)
+  - Largely bilingual households (Cantonese-English), with some
   - English may be primary or secondary language
   - Most use Cantonese at home (no Mandarin/Putonghua focus needed)
 - **Learning Context**: 
@@ -50,12 +52,12 @@ tags:
 ## 📋 Project Scope & Requirements
 
 ### In Scope:
-- Research best practices for phonics teaching methodologies
-- Develop word lists (phonics-based and sight words)
-- Create progression frameworks
-- Design assessment and tracking methods
-- Consider Cantonese L1 interference patterns
-- Plan for future digital implementation
+- [ ] Research best practices for phonics teaching methodologies
+- [ ] Develop word lists (phonics-based and sight words)
+- [ ] Create progression frameworks
+- [ ] Design assessment and tracking methods
+- [ ] Consider Cantonese L1 interference patterns
+- [ ] Plan for future digital implementation
 
 ### Out of Scope:
 - Mandarin/Putonghua considerations
@@ -121,7 +123,7 @@ tags:
 ## 🚀 Current Phase: Research
 
 ### Completed:
-- ✅ RD-001: [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK - Lean]]
+- ✅ RD-001: [[EB Teaching Guide for Phonics and Reading to Bilingual Children in HK]]
 - ✅ RD-002: [[Phonics Flashcard Guide for Cantonese-Speaking Children in HK]]
 - ✅ Established project scope and parameters
 
