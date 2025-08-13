@@ -20,7 +20,7 @@ tags:
 ## 🎯 Documentation Principles
 
 ### The Four Pillars
-1. **Accuracy**: Every fact must be verifiable. No imaginary content or wishful data.
+1. **EVIDENCE BASED**: Every fact must be verifiable. No imaginary content or wishful data. References required.
 2. **Clarity**: A substitute teacher should understand it. No unnecessary jargon.
 3. **Conciseness**: Say it once, say it well. Combine related points.
 4. **Actionability**: Documentation should enable decisions and actions, not just record thoughts.

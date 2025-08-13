@@ -3,13 +3,13 @@ title: Git Collaboration Guide for Phonics Project
 type: Guide
 permalink: 00-project-overview/ai-guides/git-collaboration-guide
 entity_type: guide
-status: ✅ Active
+status: 🚧 Under review
 created: 2025-08-09
 modified: 2025-08-09
 tags:
-- git
-- version-control
-- collaboration
+  - git
+  - version-control
+  - collaboration
 ---
 
 > [!important] Purpose

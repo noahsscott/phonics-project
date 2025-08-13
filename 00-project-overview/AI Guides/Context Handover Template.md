@@ -1,11 +1,11 @@
 ---
 title: Updated Project Context Handover Template
 type: Template
-permalink: 00-project-overview/ai-guides/updated-project-context-handover-template
+permalink: 00-project-overview/ai-guides/context-handover-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
-modified: 2025-08-09
+modified: 2025-08-13
 tags:
   - template
   - handover
@@ -88,6 +88,11 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 2. Create sight word progression mapping decodable vs irregular
 3. Build Cantonese-specific practice materials for problem sounds
 4. Design assessment rubrics and progress tracking
+
+## At the end of the session
+I will close the session manually and notify you (alternatively if we get close to context limits please notify me and we will close the session), at which point:
+- Please provide any updates to this document that are needed, eg. any changes that would impact the 'Current Project Status' or 'Key Project Decisions Made' areas etc.
+- And a commit message that I can use for backing up the project to gh
 
 ## Essential References
 ### Project Documents
