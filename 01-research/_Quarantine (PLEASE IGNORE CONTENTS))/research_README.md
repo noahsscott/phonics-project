@@ -1,1 +1,0 @@
-(Lets fill this in later once other areas have been established but would contain how to read the entire section, how to format research docs within this etc.)

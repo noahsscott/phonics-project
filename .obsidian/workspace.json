@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-research/Resources/SATPIN Foundation Words.md",
+                "file": "01-research/Resources/SATPIN Sentence Progression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SATPIN Foundation Words"
+              "title": "SATPIN Sentence Progression"
+            }
+          },
+          {
+            "id": "cd3017ef9521c2f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-research/Resources/SATPIN Foundation Words (Group 1.1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SATPIN Foundation Words (Group 1.1)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,12 +185,21 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "5dc7733662d769b1",
+  "active": "cd3017ef9521c2f0",
   "lastOpenFiles": [
-    "00-project-overview/AI Guides/Context Handover Template.md",
+    "01-research/Resources/Phonics Progression Sequence.md",
+    "01-research/Resources/SATPIN Foundation Words (Group 1.1).md",
+    "01-research/Resources/SATPIN Foundation Words Teaching Guide v2.md",
+    "01-research/Resources/SATPIN Sentence Progression.md",
+    "01-research/Resources/New Dolch List (NDL) 1.1.md",
+    "01-research/Resources/SATPIN Foundation Words Teaching Guide.md",
+    "01-research/Resources/satpin-words-data.json.sb-b78b5461-adTRnW",
+    "01-research/Resources/satpin-words-data.json",
+    "01-research/Resources/SATPIN Foundation Words Group 1.1.md",
+    "01-research/Resources/satpin-words-data",
     "01-research/Research docs/Systematic Phonics Sequencing Best Practices.md",
+    "00-project-overview/AI Guides/Context Handover Template.md",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
-    "01-research/Resources/SATPIN Foundation Words.md",
     "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
     "00-project-overview/Project Brief.md",
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/planning/Systematic phonics sequencing best practices.md",
@@ -194,19 +219,10 @@
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/YET TO BE REVIEWED.md",
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/Current status.md",
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/Research to date overview.md",
-    "README.md",
     "00-project-overview/ai-guides",
     "00-project-overview/AI Guides",
-    "01-research/Deprecated/General Doc Template.md",
-    "01-research/Templates/Resource Document Template.md",
-    "01-research/Deprecated/Research Doc Template.md",
-    "01-research/Resources/New Dolch List (NDL) 1.1.md",
-    "01-research/Templates/Updated Research Doc Template.md",
     "New Dolch List 1.1 3.csv",
     "New Dolch List 1.1 2.csv",
-    "New Dolch List 1.1 1.csv",
-    "New Dolch List 1.1.csv",
-    "01-research/Resources/New Dolch List 1.1 1.csv",
     "Screenshot 2025-08-06 at 6.40.16 pm.jpg"
   ]
 }
