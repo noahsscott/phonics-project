@@ -1,15 +1,14 @@
 ---
-title: Updated Project Context Handover Template
+title: Updated Project Context Handover Template v2
 type: Template
-permalink: 00-project-overview/ai-guides/context-handover-template
+permalink: 00-project-overview/ai-guides/context-handover-template-v2
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
-modified: 2025-08-13
+modified: 2025-08-26
 tags:
   - template
   - handover
-  - context
 ---
 
 > [!abstract] Purpose
@@ -39,11 +38,15 @@ Before anything else, please switch to the "Phonics project" basic memory projec
 I'm developing an evidence-based phonics teaching system using flashcards for children aged 3-8 in Hong Kong. The project focuses on one-on-one tutoring in home settings (60-90 minute sessions) for bilingual children (Cantonese-English speakers).
 
 ## Current Project Status
-- **Phase**: Research and content development
+- **Phase**: Content development and refinement
 - **Completed Research**: 
   - RD-001: Teaching methodology guide (synthetic phonics approach chosen)
   - RD-002: Flashcard implementation guide (word lists and progressions)
-- **Current Focus**: Refining word lists and generation approaches for flashcards
+  - RD-003: Systematic Phonics Sequencing Best Practices
+- **Completed Resources**:
+  - SATPIN Foundation Words v2 (WL-001) with 36 real words + 10 nonsense
+  - JSON data structure for programmatic word list access
+- **Current Focus**: Expanding word lists to next phonics groups and creating teaching materials
 
 ## Key Project Decisions Made
 1. **Methodology**: Synthetic phonics (60%) with analytic support (30%)
@@ -51,6 +54,7 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 3. **Flashcard Specs**: 3"×5" cards, no pictures, black text on white
 4. **Sight Words**: Using New Dolch List (875 words) for ESL learners
 5. **Decodability Standard**: 80-90% decodable text for practice materials
+6. **Word List Structure**: JSON format with patterns, tiers, and L1 challenges tracked
 
 ## Technical Context
 - Using Basic Memory for knowledge management
@@ -58,8 +62,9 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 - Project structure:
   - 00-project-overview/ (project briefs, templates, guides)
   - 01-research/ (research documents, resources, templates)
+  - 01-research/resources/json/ (structured data files)
   - materials/ (future: flashcards, guides - not yet created)
-- Data should be clean and code-interpretable (JSON preferred)
+- Data in clean JSON format for future applications
 - Planning for future flashcard generator application
 
 ## Target Audience Specifics
@@ -84,10 +89,11 @@ I'm developing an evidence-based phonics teaching system using flashcards for ch
 - **Memory features**: Use sparingly, only for major decisions and direct dependencies
 
 ## Current Priorities
-1. Develop comprehensive word lists organised by phonics pattern
-2. Create sight word progression mapping decodable vs irregular
-3. Build Cantonese-specific practice materials for problem sounds
-4. Design assessment rubrics and progress tracking
+1. Develop Group 1.2 word lists (c/k, e, h, r, m, d)
+2. Create teaching sequence for blending SATPIN + Group 1.2
+3. Design assessment rubrics for progress tracking
+4. Build Cantonese-specific error correction materials
+5. Create decodable reading passages using completed word lists
 
 ## At the end of the session
 I will close the session manually and notify you (alternatively if we get close to context limits please notify me and we will close the session), at which point:
@@ -99,7 +105,12 @@ I will close the session manually and notify you (alternatively if we get close 
 - Project Brief: [[memory://00-project-overview/phonics-flashcards-project-brief]]
 - Teaching Guide (RD-001): [[memory://01-research/research-docs/eb-teaching-guide-phonics-bilingual-hk]]
 - Flashcard Guide (RD-002): [[memory://01-research/research-docs/phonics-flashcard-guide-cantonese-hk]]
+- Systematic Phonics Sequencing Best Practices (RD-003): [[memory://01-research/research-docs/systematic-phonics-sequencing-best-practices]]
 - NDL Resource: [[memory://01-research/resources/new-dolch-list-1.1]]
+
+### Word Lists & Data
+- SATPIN Foundation Words v2: [[memory://01-research/resources/satpin-foundation-words-v2]]
+- SATPIN JSON Data: [[memory://01-research/resources/json/satpin-words-data-proper]]
 
 ### Templates & Guides
 - Style Guide: [[memory://00-project-overview/ai-guides/project-style-guide]]
@@ -150,14 +161,20 @@ Update this template when:
 - Technical approach evolves
 - New document types or templates are added
 - Style guide receives significant updates
+- New word lists or resources are completed
 
 ### Version Control Note
 When updating this template:
-1. Create a new version with "updated-" prefix
+1. Create a new version with updated suffix (e.g., -v2, -v3)
 2. Compare changes before replacing the main template
 3. Update the modified date
-4. Note significant changes in this section
+4. Note significant changes below
+
+### Change Log
+- **26/08/2025 (v2)**: Added RD-003, SATPIN Foundation Words v2, JSON data structure, updated priorities, added Word Lists & Data section
+- **09/08/2025 (v1)**: Added style guide reference, collaboration principles, and structured request format
+- **07/08/2025**: Initial template creation
 
 ---
 
-*Last updated: 09/08/2025 - Added style guide reference, collaboration principles, and structured request format*
+*Last updated: 26/08/2025 - Added completed SATPIN resources, RD-003, JSON data structure, and updated project priorities*

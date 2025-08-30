@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dc7733662d769b1",
+            "id": "cd3017ef9521c2f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "SATPIN Sentence Progression"
             }
-          },
-          {
-            "id": "cd3017ef9521c2f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-research/Resources/SATPIN Foundation Words (Group 1.1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SATPIN Foundation Words (Group 1.1)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:[\"word-lists\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,20 +172,28 @@
   },
   "active": "cd3017ef9521c2f0",
   "lastOpenFiles": [
-    "01-research/Resources/Phonics Progression Sequence.md",
-    "01-research/Resources/SATPIN Foundation Words (Group 1.1).md",
-    "01-research/Resources/SATPIN Foundation Words Teaching Guide v2.md",
+    "01-research/Resources/SATPIN Foundation Words.md",
     "01-research/Resources/SATPIN Sentence Progression.md",
+    "00-project-overview/AI Guides/Project Context Handover Template.md",
+    "00-project-overview/AI Guides/Context Handover Template.md",
+    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
+    "00-project-overview/ai-guides",
+    "01-research/Resources/SATPIN Foundation Words (Group 1.1).md",
+    "01-research/Resources/JSON/satpin-words-data.json",
+    "01-research/Resources/JSON",
+    "01-research/Resources/untitled folder",
+    "01-research/Resources/satpin-words-data.json",
+    "01-research/Resources/satpin-words-data-proper.json",
+    "01-research/Resources/satpin-words-data-proper.md",
+    "01-research/Resources/Phonics Progression Sequence.md",
+    "01-research/Resources/SATPIN Foundation Words Teaching Guide v2.md",
     "01-research/Resources/New Dolch List (NDL) 1.1.md",
     "01-research/Resources/SATPIN Foundation Words Teaching Guide.md",
     "01-research/Resources/satpin-words-data.json.sb-b78b5461-adTRnW",
-    "01-research/Resources/satpin-words-data.json",
     "01-research/Resources/SATPIN Foundation Words Group 1.1.md",
     "01-research/Resources/satpin-words-data",
     "01-research/Research docs/Systematic Phonics Sequencing Best Practices.md",
-    "00-project-overview/AI Guides/Context Handover Template.md",
     "01-research/Research docs/Phonics Flashcard Guide for Cantonese-Speaking Children in HK.md",
-    "01-research/Research docs/EB Teaching Guide for Phonics and Reading to Bilingual Children in HK.md",
     "00-project-overview/Project Brief.md",
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/planning/Systematic phonics sequencing best practices.md",
     "01-research/research-docs",
@@ -213,16 +206,6 @@
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/research_README.md",
     "01-research/_Quarantine (PLEASE IGNORE CONTENTS))",
     "01-research/planning/Phonics Flashcard Structure Plan.md",
-    "01-research/Templates/General Document Template.md",
-    "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/planning",
-    "00-project-overview/AI Guides/Project Context Handover Template.md",
-    "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/YET TO BE REVIEWED.md",
-    "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/Current status.md",
-    "01-research/_Quarantine (PLEASE IGNORE CONTENTS))/Research to date overview.md",
-    "00-project-overview/ai-guides",
-    "00-project-overview/AI Guides",
-    "New Dolch List 1.1 3.csv",
-    "New Dolch List 1.1 2.csv",
     "Screenshot 2025-08-06 at 6.40.16 pm.jpg"
   ]
 }
