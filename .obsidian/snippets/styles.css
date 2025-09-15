@@ -1,0 +1,18 @@
+/* Callout styles */
+
+.callout[data-callout="doc-research"] {
+    --callout-color: 255, 160, 0;
+    --callout-icon: lucide-atom;
+}
+
+.callout[data-callout="doc-general"] {
+    --callout-color: 34, 180, 237;
+    /* --callout-color: 23,189,188; */ /* This turqouise may be useful for smth else */
+    --callout-icon: lucide-clipboard-list;
+}
+
+.callout[data-callout="doc-resource"] {
+    --callout-color: 27, 199, 72;
+    /* --callout-color: 23,189,188; */ /* This turqouise may be useful for smth else */
+    --callout-icon: lucide-square-library;
+}

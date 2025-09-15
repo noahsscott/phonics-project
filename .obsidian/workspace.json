@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2fb7dad3cc4ca642",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec3c76b366c649a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3017ef9521c2f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abeb449c73634f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d243787d4aa564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1e8d33125e8177",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9015148c74f099fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:\"pre-phonics\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4878fdc2ab883bc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08232956a3a02b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61570fcadd045bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "019e9e81d8558081",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-research/research_README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for research_README"
+            }
+          },
+          {
+            "id": "18c32b359ce9a46f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-research/research_README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from research_README"
+            }
+          },
+          {
+            "id": "76c3f464bd6baa2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26f9e53eb52b7604",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-research/research_README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of research_README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-import-json:JSON/CSV Importer": false
+    }
+  },
+  "active": "cd3017ef9521c2f0",
+  "lastOpenFiles": [
+    "00-project-overview/future-improvements.md",
+    "00-project-overview/ai-guides/git-collaboration-guide.md",
+    "00-project-overview/ai-guides/project-style-guide.md",
+    "00-project-overview/ai-guides/context-handover-template.md",
+    "00-project-overview/ai-guides/README.md",
+    "00-project-overview/ai-guides",
+    "00-project-overview/project-brief.md",
+    "00-project-overview/SATPIN Materials Development Brief.md",
+    "00-project-overview/learning-journey-guide.md",
+    "00-project-overview/quick-start-guide.md",
+    "01-research-foundation/templates/resource-doc-template.md",
+    "01-research-foundation/templates/research-doc-template.md",
+    "01-research-foundation/templates/general-doc-template.md",
+    "01-research-foundation/templates/README.md",
+    "01-research-foundation/templates",
+    "01-research-foundation/README.md",
+    "01-research-foundation/planning/pre-phonics-research-plan-completed.md",
+    "01-research-foundation/planning/README.md",
+    "01-research-foundation/planning",
+    "01-research-foundation/research-docs/README.md",
+    "01-research-foundation/research-docs/RD-006-alphabet-phonics-transition.md",
+    "01-research-foundation/research-docs/RD-005-alphabet-teaching-esl.md",
+    "01-research-foundation/research-docs/RD-004-pre-print-phonological-awareness.md",
+    "01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing.md",
+    "01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk.md",
+    "01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk.md",
+    "01-research-foundation/research-docs",
+    "01-research-foundation/resources/phonics-progression-sequence.md",
+    "01-research-foundation/resources/new-dolch-list-1.1.md",
+    "01-research-foundation/resources/new-dolch-list-1.1.csv",
+    "01-research-foundation/resources/README.md",
+    "01-research-foundation/resources",
+    "02-pre-literacy/02.3-resources",
+    "02-pre-literacy/02.1-assessment",
+    "02-pre-literacy/02.2-activities",
+    "02-pre-literacy/02.4-parent-guide",
+    "Screenshot 2025-08-06 at 6.40.16 pm.jpg"
+  ]
+}

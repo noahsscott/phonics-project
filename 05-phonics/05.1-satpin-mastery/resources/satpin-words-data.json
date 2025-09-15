@@ -1,0 +1,156 @@
+---
+title: satpin-words-data-proper
+type: resource
+permalink: 01-research/resources/satpin-words-data-proper-1
+tags:
+- '["data"'
+- '"SATPIN"'
+- '"json"'
+- '"word-lists"]'
+---
+
+```json
+{
+  "resourceId": "WL-001",
+  "title": "SATPIN Foundation Words Data",
+  "version": "1.0",
+  "created": "2025-08-26",
+  "modified": "2025-08-26",
+  
+  "letters": ["s", "a", "t", "p", "i", "n"],
+  "phonemes": ["/s/", "/æ/", "/t/", "/p/", "/ɪ/", "/n/"],
+  
+  "words": {
+    "patterns": {
+      "VC": {
+        "count": 6,
+        "words": ["at", "it", "in", "is", "as", "an"]
+      },
+      "CVC": {
+        "count": 15,
+        "words": ["sat", "sit", "pin", "pan", "tin", "tap", "nap", "tan", "pat", "pit", "tip", "sap", "nit", "sin", "sip"]
+      },
+      "VCC": {
+        "count": 3,
+        "words": ["ant", "apt", "asp"]
+      },
+      "CVCC": {
+        "count": 7,
+        "words": ["pant", "past", "pint", "tins", "pins", "pans", "taps"]
+      },
+      "CCVC": {
+        "count": 4,
+        "words": ["snap", "spin", "spit", "span"]
+      },
+      "CCVCC": {
+        "count": 1,
+        "words": ["pants"]
+      }
+    },
+    "totalCount": 36
+  },
+  
+  "nonsenseWords": {
+    "count": 10,
+    "words": ["nas", "pis", "tas", "san", "nip", "nis", "sep", "tet", "pab", "sint"],
+    "purpose": "Test pure phonics knowledge without sight word recognition"
+  },
+  
+  "priorityTiers": {
+    "tier1": {
+      "label": "Teach First",
+      "words": ["at", "it", "in", "is", "sat", "sit"]
+    },
+    "tier2": {
+      "label": "Consolidation",
+      "words": ["pan", "pin", "tap", "tin", "an", "as"]
+    },
+    "tier3": {
+      "label": "Extension",
+      "words": ["nap", "tan", "pat", "pit", "tip", "sap", "nit", "sin", "sip", "ant", "apt", "asp", "pant", "past", "pint", "tins", "pins", "pans", "taps", "snap", "spin", "spit", "span", "pants"]
+    }
+  },
+  
+  "progression": {
+    "pre": {
+      "week": "Pre",
+      "pattern": "Single words",
+      "focusWords": ["at", "it", "in"],
+      "masteryGate": "Recognise single words"
+    },
+    "week0_5": {
+      "week": "0.5",
+      "pattern": "2-3 word phrases",
+      "focusWords": ["at it", "in it", "is at"],
+      "masteryGate": "Read phrases smoothly"
+    },
+    "week1": {
+      "week": "1",
+      "pattern": "VC patterns",
+      "focusWords": ["at", "it", "in", "is", "as", "an"],
+      "masteryGate": "Automatic recognition < 2 sec"
+    },
+    "week2": {
+      "week": "2",
+      "pattern": "CVC core",
+      "focusWords": ["sat", "sit", "pin", "pan", "tin", "tap"],
+      "masteryGate": "Read CVC words fluently"
+    },
+    "week3": {
+      "week": "3",
+      "pattern": "CVC extended",
+      "focusWords": ["nap", "tan", "pat", "pit", "tip", "sap", "nit", "sin", "sip"],
+      "masteryGate": "90% accuracy all CVC"
+    },
+    "week4": {
+      "week": "4",
+      "pattern": "Blends/plurals",
+      "focusWords": ["snap", "spin", "spit", "span", "pants", "tins", "pins", "pans"],
+      "masteryGate": "Read 4-phoneme without segmenting"
+    }
+  },
+  
+  "applicationSentences": {
+    "pre": ["at", "it", "in"],
+    "week0_5": ["at it", "in it", "is at"],
+    "week1": "It is at an inn.",
+    "week2": "Pat sat in a pan.",
+    "week3": "A nit is in a tin pit.",
+    "week4": "Ants snap at pins in tins."
+  },
+  
+  "assessmentWords": {
+    "reversals": ["in", "ni", "is", "si"],
+    "finalDrops": ["tap", "ta", "pin", "pi"],
+    "finalN": ["pant", "ants", "as", "in", "pin", "tin"],
+    "blending": ["sat", "sit", "pin", "pan", "tin", "tap", "nap", "tan", "pat", "pit"],
+    "encoding": ["sat", "pin", "ant"]
+  },
+  
+  "cantoneseL1Challenges": {
+    "finalNDropping": {
+      "affectedWords": ["pin", "pan", "tin", "an", "in"],
+      "strategy": "Pre-teach with exaggerated ending + hand tap"
+    },
+    "finalTUnreleased": {
+      "affectedWords": ["tap", "pat", "pit", "at", "it", "sat", "sit"],
+      "strategy": "Practice aspiration with paper strips from start"
+    },
+    "initialSPosition": {
+      "affectedWords": ["sat", "sit", "sap", "sin", "sip", "snap", "spin", "spit", "span"],
+      "strategy": "Mirror work for tongue placement before teaching"
+    },
+    "vowelLengthConfusion": {
+      "affectedWords": ["sit", "pit", "tin", "pin", "sip", "tip", "nit", "sin"],
+      "strategy": "Use hand stretching for short /ɪ/ vs long sounds"
+    }
+  },
+  
+  "metadata": {
+    "estimatedTeachingTime": "4 weeks",
+    "targetAge": "3-8 years",
+    "languageContext": "ESL (Cantonese L1)",
+    "nextSequence": "Group 1.2 - First Expansion (c/k, e, h, r, m, d)"
+  }
+}
+```
