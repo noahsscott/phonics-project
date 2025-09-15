@@ -11,10 +11,14 @@
             "id": "cd3017ef9521c2f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-project-overview/ai-guides/project-style-guide.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "project-style-guide"
             }
           }
         ]
@@ -168,15 +172,15 @@
   },
   "active": "cd3017ef9521c2f0",
   "lastOpenFiles": [
-    "00-project-overview/future-improvements.md",
     "00-project-overview/ai-guides/git-collaboration-guide.md",
-    "00-project-overview/ai-guides/project-style-guide.md",
     "00-project-overview/ai-guides/context-handover-template.md",
+    "00-project-overview/project-brief.md",
+    "00-project-overview/future-improvements.md",
+    "00-project-overview/learning-journey-guide.md",
+    "00-project-overview/SATPIN Materials Development Brief.md",
+    "00-project-overview/ai-guides/project-style-guide.md",
     "00-project-overview/ai-guides/README.md",
     "00-project-overview/ai-guides",
-    "00-project-overview/project-brief.md",
-    "00-project-overview/SATPIN Materials Development Brief.md",
-    "00-project-overview/learning-journey-guide.md",
     "00-project-overview/quick-start-guide.md",
     "01-research-foundation/templates/resource-doc-template.md",
     "01-research-foundation/templates/research-doc-template.md",
