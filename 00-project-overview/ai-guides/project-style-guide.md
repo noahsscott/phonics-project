@@ -5,17 +5,16 @@ permalink: 00-project-overview/ai-guides/project-style-guide
 entity_type: guide
 status: ✅ Completed
 created: 2025-08-09
-modified: 2025-08-09
+modified: 2025-09-16
 tags:
   - style-guide
-  - documentation
-  - standards
+  - ai-guide
 ---
 
 > [!important] Core Philosophy
-> **Clarity beats completeness. Conciseness with precision is the goal.**
+> **Evidence-based clarity beats everything. Conciseness with precision follows.**
 > 
-> Every word should earn its place. If you can't explain why a section adds value, remove it.
+> Every word should earn its place through evidence or enablement. If you can't verify it or it doesn't enable action, remove it.
 
 ## 🎯 Documentation Principles
 
@@ -27,6 +26,16 @@ tags:
 
 ### The "10-Second Rule"
 Anyone should understand a document's purpose within 10 seconds of opening it. If they can't, your scope is too broad or your purpose unclear.
+
+## 📑 Document Types & Numbering
+
+- **RD-XXX**: Research documents (external evidence, literature reviews)
+- **MAT-XXX**: Materials and activities (teaching resources, activities)
+- **Resource docs**: Data, word lists, reference materials
+- **Planning docs**: Development briefs, project plans
+- **Assessment tools**: Tracking cards, checklists, rubrics
+- **Crosswalk tools**: Navigation aids between stages, placement guides
+- **General docs**: Everything else
 
 ## ✍️ Writing Standards
 
@@ -42,6 +51,12 @@ Anyone should understand a document's purpose within 10 seconds of opening it. I
 - **Sections**: 3-4 main sections ideal, 7+ is too many
 - **Paragraphs**: 3-4 sentences maximum
 
+### File & Folder Naming
+- **Use kebab-case**: `phonics-progression-sequence.md`
+- **No spaces or capitals**: `01-research-foundation` not `01 Research Foundation`
+- **Sequential numbering**: `00-project-overview`, `01-research-foundation`
+- **Decimal sub-stages**: `02.1-assessment`, `02.2-activities`
+
 ## 🔍 Content Guidelines
 
 ### When Adding Information
@@ -50,7 +65,6 @@ Ask yourself:
 2. Would removing it make the document less useful?
 3. Is this the simplest way to explain it?
 4. Am I repeating something said elsewhere?
-
 If you answer "no" to any of these, reconsider.
 
 ### Combining Related Points
@@ -76,6 +90,14 @@ If you answer "no" to any of these, reconsider.
 - **Remove obvious notes**: Don't note "lower rank = more frequent"
 - **Keep data separate**: Use embedded files, don't duplicate
 
+### Tables & Data Presentation
+Research objectives table format:
+| Objective | Success Criteria | Result | Evidence |
+| --------- | --------------- | ------ | -------- |
+| [Specific] | [Measurable] | ✅/⚠️/❌ | [Citation] |
+
+Always include context: "90% accuracy = 9 out of 10 correct"
+
 ### Resource Documentation
 - Start with WHAT it is, then WHY it matters
 - Maximum 3-4 sentences for descriptions
@@ -87,12 +109,28 @@ If you answer "no" to any of these, reconsider.
 ### Making Things Actionable
 ❌ **Poor action**: "Develop materials"
 ✅ **Good action**: "Create 10 CVC words for each SATPIN letter"
+✅ **Better**: "MAT-001: Phonics readiness checklist with traffic light system"
 
 ❌ **Poor objective**: "Understand phonics methods"
 ✅ **Good objective**: "Identify 3+ evidence-based phonics approaches for ESL"
 
 ### Delegation Test
 Could you hand this action to someone else tomorrow? If not, it's not specific enough.
+
+## 📈 Progress Tracking
+
+### Exposure-Based Measurement
+- **Count exposures, not time**: "5 exposures per stage" not "1 week of practice"
+- **Flexible for schedules**: Works for 1x/week or daily attendance
+- **Parent-friendly**: Explain why exposure-based tracking matters
+- **Mastery focused**: 90% accuracy over 3 sessions, not calendar progression
+
+### Status Indicators
+- ✅ **Completed**: Finalised, ready for use
+- 🔄 **In Progress**: Active development
+- ⚠️ **Needs Review**: Complete but needs validation
+- 🚧 **Under Review**: Being edited
+- 🚀 **Ready to Execute**: Planned and resourced
 
 ## 🔗 Document Relationships
 
@@ -107,21 +145,44 @@ Could you hand this action to someone else tomorrow? If not, it's not specific e
 - **Direct dependencies**: Document A requires Document B
 - **Not for**: General concepts, minor points, everything you mention
 
+## 📏 Document Length Guidelines
+
+**Evidence determines length**: If evidence requires more words, use them. If not, cut them.
+
+Target ranges (flex for evidence):
+- **Project brief**: 500-700 words
+- **Research summary**: 300-500 words (not including main research)
+- **Material specification**: 200-300 words
+- **Assessment tool**: 150-250 words
+- **Parent guide**: 300-400 words
+- **Planning document**: 400-600 words
+
+Apply the "$10 per word" test after evidence requirements are met.
+
+## 🎭 Audience Differentiation
+
+State your primary audience in the first 10 seconds:
+- **For tutors**: Practical how-to instructions, session structures
+- **For parents**: Simple explanations, no jargon, clear expectations
+- **For developers**: Technical specs, JSON formats, data structures
+- **For assessment**: Clear rubrics, observable behaviours
+
 ## ✅ Quality Checklist
 
 Before finalising any document:
+- [ ] **Evidence for every claim?** Citations present and verified
 - [ ] **Purpose clear in one line?** If not, narrow scope
 - [ ] **No redundancy between sections?** Combine or cut
 - [ ] **Every statistic has context?** Add practical meaning
 - [ ] **Actions specific enough to delegate?** Add detail
 - [ ] **Removed all "nice to have" content?** Be ruthless
 - [ ] **Would a newcomer understand?** Remove jargon
-- [ ] **Facts verified or marked for checking?** No guessing
+- [ ] **Primary audience identified?** Adjust language accordingly
 
 ## 🚫 Common Pitfalls to Avoid
 
 ### The Bloat Trap
-Adding sections because a template has them, or for excessive use-case coverage, not because you need them.
+Adding sections because a template has them, not because you need them.
 **Solution**: Start minimal, add only when necessary.
 
 ### The Academic Voice
@@ -140,6 +201,10 @@ Making up data or details to fill sections.
 Saying the same thing in Overview, Key Points, and Main Content.
 **Solution**: Say it once in the most appropriate place.
 
+### The Week-Based Trap
+Using time-based measures when attendance varies.
+**Solution**: Use exposure-based tracking for flexibility.
+
 ## 📐 Template Selection
 
 Choose the right template:
@@ -152,15 +217,16 @@ When in doubt, use General Doc and keep it simple.
 ## 🎯 The Final Test
 
 Before publishing, ask:
-> "If I had to pay $10 per word, would I keep all of these?"
+> "Is every claim supported by evidence? Would I pay $10 per word for what remains?"
 
-This mindset ensures every word earns its place.
+This dual test ensures credibility and conciseness.
 
 ---
 
 ## Quick Reference Card
 
 ### Essential Reminders
+- **Evidence first** = No claim without citation
 - **One concept** = One location (don't repeat)
 - **Three bullets** > Seven bullets (combine related points)
 - **Specific numbers** > Vague descriptions
@@ -169,11 +235,12 @@ This mindset ensures every word earns its place.
 - **Clear structure** > Complete coverage
 
 ### The Golden Rules
-1. Perfect is the enemy of done
-2. Start simple, add complexity only when needed
-3. If you can't explain it simply, you don't understand it well enough
-4. Documentation should enable action, not just record information
+1. Evidence beats opinion every time
+2. Perfect is the enemy of done
+3. Start simple, add complexity only when needed
+4. If you can't explain it simply, you don't understand it well enough
+5. Documentation should enable action, not just record information
 
 ---
 
-*This style guide is a living document but changes should maintain our commitment to clarity and conciseness. When in doubt, choose the simpler option.*
+*This style guide is a living document but changes should maintain our commitment to evidence-based clarity and conciseness. When in doubt, choose the simpler, verifiable option.*

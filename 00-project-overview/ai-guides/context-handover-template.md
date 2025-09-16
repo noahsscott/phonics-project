@@ -1,180 +1,131 @@
 ---
-title: Updated Project Context Handover Template v2
+title: AI Context Handover Template
 type: Template
 permalink: 00-project-overview/ai-guides/context-handover-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
-modified: 2025-08-26
+modified: 2025-09-16
 tags:
-  - template
   - handover
+  - ai-guide
 ---
 
 > [!abstract] Purpose
-> This template provides essential project context for new Claude conversations. Copy and paste the content below (between the dividers) to quickly bring Claude up to speed on the Phonics and Flashcards Project.
+> Quick-start guide for new Claude sessions. Points to authoritative sources rather than duplicating content.
 
 ---
 ## 📋 COPY FROM HERE ──────────────────────
 
-# Project Context: Phonics and Flashcards Project
+# Phonics Project - Session Start
 
-Before anything else, please switch to the "phonics-project" basic memory project, which is located at: /Users/noahscott/Documents/Basic Memory/phonics-project. If you cannot find it do let me know and we will locate it prior to anything further.
+## ⚡ First Steps
+1. Switch to Basic Memory project: `/Users/noahscott/Documents/Basic Memory/phonics-project`
+   - If not found, we'll locate it before proceeding
+2. Read these in order:
+   - [[00-project-overview/project-brief]] - Current status, goals, evolution
+   - [[00-project-overview/ai-guides/project-style-guide]] - Documentation standards
+   - [[00-project-overview/ai-guides/project-commit-log]] - Recent changes and decisions
 
-## ⚡ Quick Reference
-- **UK English** | **DD/MM/YYYY dates** | **24-hour time** | **Metric only**
-- **Concise > Complete** | **Specific > Vague** | **Simple > Complex**
-- **Verify facts** | **Cite sources** | **No imaginary data**
+## 🗂️ Quick Navigation
 
-## Collaboration Principles
-- **Discuss before editing**: Always review proposed changes together in chat before modifying any documents
-- **Version control**: When updating existing documents, keep the original and create a new version for comparison
-- **Start simple**: Begin with minimal structure, add complexity only when needed
-- **Verify facts**: Flag anything that needs fact-checking rather than guessing
-- **Conciseness matters**: Combine related points, avoid redundancy
-- **10-second rule**: Document purpose must be clear within 10 seconds
+00-project-overview/ → Brief, guides, templates
+01-research-foundation/ → Research (RD-XXX), resources, word lists
+02-pre-literacy/ → Pre-phonics activities (no letters)
+03-alphabet/ → Letter introduction  
+04-transition/ → Letter-sound bridge activities
+05-phonics/ → SATPIN onwards
+06-crosswalk-tools/ → Navigation aids between stages
 
-## Project Overview
-I'm developing an evidence-based phonics teaching system using flashcards for children aged 3-8 in Hong Kong. The project focuses on one-on-one tutoring in home settings (60-90 minute sessions) for bilingual children (Cantonese-English speakers).
+## 🎯 Common Task Locations
+- **Add research**: Create RD-XXX in `01-research-foundation/research-docs/`
+- **Create materials**: Use MAT-XXX in relevant stage folder
+- **Update word lists**: `01-research-foundation/resources/`
+- **Cantonese L1 support**: `03-alphabet/03.5-cantonese-support/`
+- **Assessment tools**: `[stage]/[stage.1]-assessment/`
+- **Progress tracking**: Check templates in assessment folders
 
-## Current Project Status
-- **Phase**: Content development and refinement
-- **Completed Research**: 
-  - RD-001: Teaching methodology guide (synthetic phonics approach chosen)
-  - RD-002: Flashcard implementation guide (word lists and progressions)
-  - RD-003: Systematic Phonics Sequencing Best Practices
-- **Completed Resources**:
-  - SATPIN Foundation Words v2 (WL-001) with 36 real words + 10 nonsense
-  - JSON data structure for programmatic word list access
-- **Current Focus**: Expanding word lists to next phonics groups and creating teaching materials
+## ⚡ Quick Reminders
+- **UK English** | **DD/MM/YYYY** | **24-hour time** | **Metric only**
+- **Evidence-based** > Everything else
+- **Exposures not weeks** for tracking
+- **Discuss before editing** any documents
 
-## Key Project Decisions Made
-1. **Methodology**: Synthetic phonics (60%) with analytic support (30%)
-2. **Progression**: SATPIN sequence → UK Letters & Sounds phases
-3. **Flashcard Specs**: 3"×5" cards, no pictures, black text on white
-4. **Sight Words**: Using New Dolch List (875 words) for ESL learners
-5. **Decodability Standard**: 80-90% decodable text for practice materials
-6. **Word List Structure**: JSON format with patterns, tiers, and L1 challenges tracked
+## 💬 What I Need Help With
+**Task**: [Specific task]
+**Documents**: [Which files to work with]
+**Constraints**: [Requirements/limitations]
+**Success looks like**: [Expected outcome]
 
-## Technical Context
-- Using Basic Memory for knowledge management
-- Documents organised in Obsidian-style markdown
-- Project structure:
-  - 00-project-overview/ (project briefs, templates, guides)
-  - 01-research-foundation/ (research documents, resources, templates)
-  - 01-research-foundation/resources/ (word lists and data)
-  - 05-phonics/ (SATPIN and phonics materials)
-- Data in clean JSON format for future applications
-- Planning for future flashcard generator application
+## 🏁 Session End Protocol
+When closing session, provide:
+1. **In chat**: Commit message for GitHub (I'll copy this for manual commit)
+2. **Update**: [[00-project-overview/ai-guides/project-commit-log]] with same message + key changes
+3. **Flag**: Any decisions needing project brief update
 
-## Target Audience Specifics
-- **Age**: 3-8 years old
-- **Language**: Bilingual (Cantonese-English), no Mandarin focus needed
-- **Setting**: Home tutoring, one-on-one
-- **Challenges**: L1 interference from Cantonese (missing phonemes: /v/, /z/, /θ/, /ð/, /r/)
-- **Special Considerations**: Some learners may have dyslexia
+Example commit message format:
+"Refactor(links): update all memory links and permalinks after project restructure
 
-## Documentation Style & Quality Standards
-- **Style Guide**: Follow [[memory://00-project-overview/ai-guides/project-style-guide]] for all documentation
-- **Core principle**: Clarity beats completeness - be concise and specific
-- **UK English**: Use UK spelling (recognise, prioritise, centre) and DD/MM/YYYY date format
-- **Evidence-based**: Verify all facts, cite sources properly, no imaginary content
-- **Action items**: Must be specific enough to delegate tomorrow
+- Updated all memory:// links to reflect new folder structure
+	- Changed 01-research/ → 01-research-foundation/
+	- Updated research doc naming to RD-XXX-kebab-case format
+	- Moved SATPIN resources to 05-phonics/05.1-satpin-mastery/
+	- Fixed AI Guides → ai-guides folder references 
+- Fixed YAML frontmatter permalinks in all documents 
+	- Templates: corrected 3 permalink references 
+	- Resources: updated new-dolch-list permalink 
+	- All permalinks now use new folder structure - 
+- Updated cross-references in key documents 
+	- 00-project-overview/ai-guides/context-handover-template 
+	- 00-project-overview/project-brief 
+	- 00-project-overview/SATPIN Materials Development Brief 
+	- 01-research-foundation/planning/pre-phonics-research-plan-completed 
+	- 01-research-foundation/templates/* (all templates) 
+- Aligned all internal links with sequential learning journey (00-06) 
+	- Pre-literacy (02) 
+	- Alphabet (03) 
+	- Transition (04) 
+	- Phonics (05) 
+	- Crosswalk tools (06) 
+- BREAKING CHANGE: Old memory:// links to 01-research/ will no longer resolve. All links now point to 01-research-foundation/ and new structure. 
+- Note: Some stale database entries from old structure remain in Basic Memory but will clear on next full re-index. Physical files are correctly organised.
+"
+## ──────────── COPY TO HERE 📋
 
-## Document Standards & Templates
-- **Research docs**: External research, preserve original content, use [[memory://01-research-foundation/templates/research-doc-template]]
-- **Resource docs**: Data/word lists, concise with practical focus, use [[memory://01-research-foundation/templates/resource-doc-template]]
-- **General docs**: Internal project docs, minimal structure, use [[memory://01-research-foundation/templates/general-doc-template]]
-- **Quality focus**: Every section must add value - if not, remove it
-- **Memory features**: Use sparingly, only for major decisions and direct dependencies
+## 💡 Usage Instructions
 
-## Current Priorities
-1. Develop Group 1.2 word lists (c/k, e, h, r, m, d)
-2. Create teaching sequence for blending SATPIN + Group 1.2
-3. Design assessment rubrics for progress tracking
-4. Build Cantonese-specific error correction materials
-5. Create decodable reading passages using completed word lists
+1. **Copy** everything between the dividers
+2. **Paste** at start of new Claude conversation
+3. **Fill** "What I Need Help With" section
+4. **Begin** work after Claude confirms project access
 
-## At the end of the session
-I will close the session manually and notify you (alternatively if we get close to context limits please notify me and we will close the session), at which point:
-- Please provide any updates to this document that are needed, eg. any changes that would impact the 'Current Project Status' or 'Key Project Decisions Made' areas etc.
-- And a commit message that I can use for backing up the project to gh
+## 🎯 Template Philosophy
 
-## Essential References
-### Project Documents
-- Project Brief: [[00-project-overview/project-brief]]
-- Teaching Guide (RD-001): [[memory://01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk]]
-- Flashcard Guide (RD-002): [[01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk]]
-- Systematic Phonics Sequencing Best Practices (RD-003): [[01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing]]
-- NDL Resource: [[01-research-foundation/resources/new-dolch-list-1.1]]
+This template is intentionally minimal. It:
+- **Points to** authoritative documents rather than duplicating them
+- **Requires zero maintenance** (except commit log updates by Claude)
+- **Provides navigation** without overwhelming detail
+- **Stays under 300 words** to respect context limits
 
-### Word Lists & Data
-- SATPIN Foundation Words v2: [[satpin-foundation-words]]
-- SATPIN JSON Data: [[05-phonics/05.1-satpin-mastery/data/satpin-words-data]]
+## 🚫 What This Template Doesn't Do
 
-### Templates & Guides
-- Style Guide: [[00-project-overview/ai-guides/project-style-guide]]
-- Research Template: [[01-research-foundation/templates/research-doc-template]]
-- Resource Template: [[01-research-foundation/templates/resource-doc-template]]
-- General Template: [[01-research-foundation/templates/general-doc-template]]
+- **Doesn't duplicate** project brief content
+- **Doesn't repeat** style guide principles  
+- **Doesn't maintain** outdated information
+- **Doesn't explain** the project (that's what the brief is for)
 
-## What I Need Help With
-<!-- Be specific using this format: -->
-**Task**: [What needs to be done]
-**Document(s)**: [Which documents to work with]
-**Constraints**: [Any specific requirements or limitations]
-**Expected outcome**: [What success looks like]
-**Style notes**: [Any departures from standard style guide]
+## 🔧 Maintenance
 
-## ──────────────────── COPY TO HERE 📋
+This template should rarely need updates. Only modify if:
+- Basic Memory project location changes
+- Folder structure fundamentally changes
+- Session protocols change
+
+Do NOT update for:
+- Project status changes (update project brief instead)
+- New research documents (they'll be in the folders)
+- Style guide updates (read the guide directly)
 
 ---
 
-## 📝 Usage Instructions
-
-1. **Copy the content** between the dividers above
-2. **Paste at the start** of your new Claude conversation
-3. **Fill in the "What I Need Help With"** section with specifics for your session
-4. **Add any additional context** specific to current work not captured in template
-5. **Reference specific documents** if the task requires them
-
-## 💡 Tips for Effective Handovers
-
-### DO:
-- **Be specific** about what you need in the current session
-- **State if you want comparison versions** when updating documents
-- **Reference exact document paths** when working on specific files
-- **Mention recent changes** not captured in the template
-- **Include examples** of the output format you want
-
-### DON'T:
-- **Don't be vague** - "improve this" vs "make this more concise by combining related points"
-- **Don't skip context** - Claude needs to know what stage you're at
-- **Don't forget constraints** - mention deadlines, length limits, specific requirements
-
-## 🔄 Maintaining This Template
-
-Update this template when:
-- Major project decisions are made
-- New research documents are completed
-- Project phase changes
-- Technical approach evolves
-- New document types or templates are added
-- Style guide receives significant updates
-- New word lists or resources are completed
-
-### Version Control Note
-When updating this template:
-1. Create a new version with updated suffix (e.g., -v2, -v3)
-2. Compare changes before replacing the main template
-3. Update the modified date
-4. Note significant changes below
-
-### Change Log
-- **26/08/2025 (v2)**: Added RD-003, SATPIN Foundation Words v2, JSON data structure, updated priorities, added Word Lists & Data section
-- **09/08/2025 (v1)**: Added style guide reference, collaboration principles, and structured request format
-- **07/08/2025**: Initial template creation
-
----
-
-*Last updated: 26/08/2025 - Added completed SATPIN resources, RD-003, JSON data structure, and updated project priorities*
+*Simplified 16/09/2025: Removed all content duplication, now a pure navigation document pointing to authoritative sources*

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-project-overview/project-brief.md",
+                "file": "00-project-overview/ai-guides/project-commit-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-brief"
+              "title": "project-commit-log"
+            }
+          },
+          {
+            "id": "36775a489368e923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-project-overview/quick-start-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quick-start-guide"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"01-research\"",
+                "query": "tag:project-history",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +186,20 @@
   },
   "active": "cd3017ef9521c2f0",
   "lastOpenFiles": [
+    "00-project-overview/ai-guides/git-collaboration-guide.md",
+    "00-project-overview/ai-guides/context-handover-template.md",
+    "00-project-overview/ai-guides/project-commit-log.md",
+    "00-project-overview/ai-guides/project-style-guide.md",
+    "05-phonics/05.1-satpin-mastery/data/satpin-words-data.md",
+    "00-project-overview/project-brief.md",
+    "01-research-foundation/planning/pre-phonics-materials-development-plan.md",
     "00-project-overview/quick-start-guide.md",
+    "00-project-overview/learning-journey-guide.md",
+    "00-project-overview/future-improvements.md",
+    "00-project-overview/SATPIN Materials Development Brief.md",
+    "00-project-overview/project-brief",
+    "00-project-overview/project-brief-OLD",
+    "00-project-overview/Phonics and Flashcards Project Brief.md",
     "06-crosswalk-tools/student-placement-guide-RENAMED.md",
     "06-crosswalk-tools/materials-by-need.md",
     "06-crosswalk-tools/exposure-calculator.md",
@@ -187,17 +214,6 @@
     "01-research-foundation/templates/general-doc-template.md",
     "01-research-foundation/resources/phonics-progression-sequence.md",
     "01-research-foundation/resources/new-dolch-list-1.1.md",
-    "01-research-foundation/research-docs/RD-006-alphabet-phonics-transition.md",
-    "01-research-foundation/research-docs/RD-005-alphabet-teaching-esl.md",
-    "01-research-foundation/research-docs/RD-004-pre-print-phonological-awareness.md",
-    "01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing.md",
-    "01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk.md",
-    "01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk.md",
-    "01-research-foundation/planning/README.md",
-    "01-research-foundation/planning/pre-phonics-materials-development-plan.md",
-    "00-project-overview/SATPIN Materials Development Brief.md",
-    "00-project-overview/project-brief.md",
-    "00-project-overview/learning-journey-guide.md",
     "00-project-overview/ai-guides",
     "01-research-foundation/templates",
     "01-research-foundation/planning",
@@ -206,8 +222,6 @@
     "01-research-foundation/resources",
     "02-pre-literacy/02.3-resources",
     "02-pre-literacy/02.1-assessment",
-    "02-pre-literacy/02.2-activities",
-    "02-pre-literacy/02.4-parent-guide",
     "Screenshot 2025-08-06 at 6.40.16 pm.jpg"
   ]
 }

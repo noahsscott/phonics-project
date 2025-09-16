@@ -9,7 +9,7 @@ modified: 2025-08-09
 tags:
   - git
   - version-control
-  - collaboration
+  - ai-guide
 ---
 
 > [!important] Purpose

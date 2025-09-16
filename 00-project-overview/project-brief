@@ -1,16 +1,16 @@
 ---
-title: Project Brief
+title: Phonics and Flashcards Project Brief
 type: Overview
-permalink: 00-project-overview/project-brief
+permalink: 00-project-overview/project-brief-1
 entity_type: project-document
 status: 🚀 Active - Materials Development
 created: 2025-08-07
 modified: 2025-09-16
 tags:
-  - project-overview
-  - phonics
-  - pre-literacy
-  - bilingual-education
+- project-overview
+- phonics
+- pre-literacy
+- bilingual-education
 ---
 
 > [!abstract] Project Overview
@@ -79,7 +79,8 @@ tags:
 **Research-validated metrics**:
 - **PA readiness**: Syllable segmentation + rhyme recognition + initial sound isolation before letters (RD-004)
 - **Letter threshold**: 15-20 letters with <2 second automaticity before phonics (RD-006)  
-- **Phonics progression**: 90% accuracy over 3 sessions at each phonics stage (RD-003)
+- **Progression**: 90% accuracy over 3 sessions at each stage (RD-003)
+- **Word coverage**: 315 words = 78% text coverage; 875 words = 90% coverage (NDL 1.1)
 
 ## 🚀 Current Phase: Materials Development
 
