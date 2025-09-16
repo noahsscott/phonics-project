@@ -19,7 +19,7 @@ tags:
 > | **Purpose**        | Progressive decodable sentences using SATPIN |
 > | **Total Sentences**| 50+ sentences across Pre-week to Week 4   |
 > | **Decodability**   | 100% SATPIN-only (no sight words needed)  |
-> | **Word Source**    | [[05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2]] |
+> | **Word Source**    | [[satpin-foundation-words]] |
 
 ## 📚 Stage 1: Single Word Recognition
 
@@ -325,7 +325,7 @@ Each sentence set needs 5 exposures to reach mastery:
 
 ## 📎 Materials & Links
 
-- **Word source**: [[05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2]]
+- **Word source**: [[satpin-foundation-words]]
 - **JSON data**: [[05-phonics/05.1-satpin-mastery/resources/satpin-words-data]]
 - **Research base**: [[01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing]]
 - **Next**: Group 1.2 - First Expansion sentences (c/k, e, h, r, m, d)

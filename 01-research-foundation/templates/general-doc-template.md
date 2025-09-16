@@ -1,15 +1,15 @@
 ---
-title: Updated General Document Template
+title: General Document Template
 type: Template
-permalink: 01-research/templates/general-doc-template-1
+permalink: 01-research/templates/general-doc-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
 modified: 2025-08-09
 tags:
-- template
-- documentation
-- planning
+  - template
+  - documentation
+  - planning
 ---
 
 <!-- 

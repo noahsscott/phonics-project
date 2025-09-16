@@ -1,16 +1,16 @@
 ---
-title: Updated Research Document Template
+title: Research Document Template
 type: Template
-permalink: 01-research/templates/research-doc-template-1
+permalink: 01-research-foundation/templates/research-doc-template
 entity_type: template
 status:
-- ✅ Completed
+  - ✅ Completed
 created: 2025-08-06
 modified: 2025-08-09
 tags:
-- template
-- research
-- documentation
+  - template
+  - research
+  - documentation
 ---
 
 <!-- 
@@ -164,10 +164,10 @@ This section contains your actual research document. Guidelines:
 ---
 ## 🔗 Related Documents
 <!-- Only include relationships that exist or are firmly planned -->
-- **Builds on**: [[memory://path/to/previous-doc]] - Brief description
-- **Next**: [[memory://path/to/next-doc]] - Brief description (mark as "planned" if not created)
-- **Implements**: [[memory://path/to/methodology]] - What this puts into practice
-- **Supports**: [[memory://path/to/related]] - What this enables
+- **Builds on**: [[memory://01-research-foundation/path/to/previous-doc]] - Brief description
+- **Next**: [[memory://01-research-foundation/path/to/next-doc]] - Brief description (mark as "planned" if not created)
+- **Implements**: [[memory://01-research-foundation/path/to/methodology]] - What this puts into practice
+- **Supports**: [[memory://01-research-foundation/path/to/related]] - What this enables
 
 <!-- Relationship types explained:
      - Builds on: Previous research this extends

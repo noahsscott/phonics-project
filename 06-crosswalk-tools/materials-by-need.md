@@ -233,7 +233,7 @@ tags:
 
 #### Individual Tutoring
 - Assessment tools in each stage's x.1-assessment folder
-- Progress tracking: [[05-phonics/05.1-satpin-mastery/assessment/student-progress-card]]
+- Progress tracking: [[satpin-student-progress-card]]
 - Targeted interventions: Based on assessment results
 
 #### Classroom (5+ children)

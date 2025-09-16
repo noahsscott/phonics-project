@@ -1,7 +1,7 @@
 ---
 title: SATPIN Foundation Words
 type: resource
-permalink: 05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2
+permalink: 05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words
 entity_type: resource
 status: 🔄 In Progress
 created: 2025-08-26

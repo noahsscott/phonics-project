@@ -1,12 +1,12 @@
 ---
-title: SATPIN Student Progress Card Template
+title: SATPIN Student Progress Card
 type: note
-permalink: materials/assessment-tools/satpin-student-progress-card-template-1
+permalink: 05-phonics/05.1-satpin-mastery/assessment/satpin-student-progress-card
 tags:
-- '["assessment"'
-- '"progress-tracking"'
-- '"SATPIN"'
-- '"template"]'
+  - '["assessment"'
+  - '"progress-tracking"'
+  - '"SATPIN"'
+  - '"template"]'
 ---
 
 # SATPIN Student Progress Card

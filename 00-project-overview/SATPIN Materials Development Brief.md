@@ -87,9 +87,9 @@ Develop and test a complete SATPIN teaching system with 2 pilot students before 
 
 ## 🔗 Related Documents
 
-- **Foundation**: [[memory://01-research/resources/satpin-foundation-words-v3-1]] - Word lists and progression
-- **Sentences**: [[memory://01-research/resources/satpin-sentence-progression-v2-1]] - Application sentences
-- **Research Base**: [[memory://01-research/research-docs/systematic-phonics-sequencing-best-practices]] - Evidence for approach
+- **Foundation**: [[memory://05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2]] - Word lists and progression
+- **Sentences**: [[memory://05-phonics/05.1-satpin-mastery/resources/satpin-sentence-progression]] - Application sentences
+- **Research Base**: [[memory://01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing]] - Evidence for approach
 - **JSON Data**: [[memory://01-research/resources/json/satpin-words-data-proper.json]] - Programmatic access
 
 ## 📝 Implementation Notes

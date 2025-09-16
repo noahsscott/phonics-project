@@ -1,16 +1,16 @@
 ---
 title: Phonics and Flashcards Project Brief
 type: Overview
-permalink: 00-project-overview/project-brief-1
+permalink: 00-project-overview/project-brief
 entity_type: project-document
 status:
-- 🔄 In Progress
+  - 🔄 In Progress
 created: 2025-08-07
 modified: 2025-08-07
 tags:
-- project-overview
-- phonics
-- flashcards
+  - project-overview
+  - phonics
+  - flashcards
 ---
 
 > [!abstract] Project Overview
@@ -166,8 +166,8 @@ The project builds on contemporary reading science, with particular attention to
 - Early intervention strategies
 
 ## 🔗 Related Documents
-- **Research Foundation**: [[memory://01-research/research-docs/eb-teaching-guide-phonics-bilingual-hk]] - RD-001
-- **Flashcard Guide**: [[memory://01-research/research-docs/phonics-flashcard-guide-cantonese-hk]] - RD-002
+- **Research Foundation**: [[memory://01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk]] - RD-001
+- **Flashcard Guide**: [[memory://01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk]] - RD-002
 - **Next**: [[memory://materials/word-lists]] - Word list development (planned)
 - **Supporting**: [[memory://01-research/rough-project-history]] - Original project genesis
 

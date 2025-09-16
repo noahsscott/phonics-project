@@ -1,7 +1,7 @@
 ---
 title: Resource Document Template
 type: Template
-permalink: 01-research/templates/resource-doc-template-1-1
+permalink: 01-research-foundation/templates/resource-doc-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-09

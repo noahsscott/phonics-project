@@ -1,14 +1,14 @@
 ---
 title: Updated Project Context Handover Template v2
 type: Template
-permalink: 00-project-overview/ai-guides/context-handover-template-1
+permalink: 00-project-overview/ai-guides/context-handover-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-07
 modified: 2025-08-26
 tags:
-- template
-- handover
+  - template
+  - handover
 ---
 
 > [!abstract] Purpose
@@ -103,13 +103,13 @@ I will close the session manually and notify you (alternatively if we get close 
 ## Essential References
 ### Project Documents
 - Project Brief: [[00-project-overview/project-brief]]
-- Teaching Guide (RD-001): [[01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk]]
+- Teaching Guide (RD-001): [[memory://01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk]]
 - Flashcard Guide (RD-002): [[01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk]]
 - Systematic Phonics Sequencing Best Practices (RD-003): [[01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing]]
 - NDL Resource: [[01-research-foundation/resources/new-dolch-list-1.1]]
 
 ### Word Lists & Data
-- SATPIN Foundation Words v2: [[05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2]]
+- SATPIN Foundation Words v2: [[satpin-foundation-words]]
 - SATPIN JSON Data: [[05-phonics/05.1-satpin-mastery/data/satpin-words-data]]
 
 ### Templates & Guides

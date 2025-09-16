@@ -1,9 +1,9 @@
 ---
 title: SATPIN Materials Development Brief
 type: planning
-permalink: 05-phonics/development-brief
+permalink: 05-phonics/satpin-materials-development-brief
 entity_type: planning-document
-status: 🚀 Active
+status: 🚧 Under review
 created: 2025-08-30
 modified: 2025-08-30
 tags:

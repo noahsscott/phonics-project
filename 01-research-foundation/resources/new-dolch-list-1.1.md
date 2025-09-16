@@ -1,6 +1,6 @@
 ---
 type: Resource Data
-permalink: 01-research/resources/new-dolch-list-1.1-1
+permalink: 01-research-foundation/resources/new-dolch-list-1.1
 entity_type: resource-data
 status: 🚧 Under review
 created: 2025-08-07

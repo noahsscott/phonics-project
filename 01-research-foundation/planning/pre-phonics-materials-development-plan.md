@@ -1,7 +1,7 @@
 ---
 title: Pre-Phonics Materials Development Plan
 type: planning
-permalink: 01-research-foundation/planning/pre-phonics-research-plan-completed
+permalink: 01-research-foundation/planning/pre-phonics-materials-development-plan
 entity_type: planning-document
 status: 🔄 In Planning
 created: 2025-09-15
@@ -223,16 +223,16 @@ Each material must:
 ## 🔗 Related Documents
 
 **Research Foundation**:
-- [[memory://01-research/research-docs/pre-print-phonological-awareness]] - RD-004
-- [[memory://01-research/research-docs/alphabet-teaching-esl]] - RD-005
-- [[memory://01-research/research-docs/alphabet-phonics-transition]] - RD-006
+- [[memory://01-research-foundation/research-docs/RD-004-pre-print-phonological-awareness]] - RD-004
+- [[memory://01-research-foundation/research-docs/RD-005-alphabet-teaching-esl]] - RD-005
+- [[memory://01-research-foundation/research-docs/RD-006-alphabet-phonics-transition]] - RD-006
 
 **Builds From**:
 - [[memory://01-research/planning/pre-phonics-research-plan]] - Original research plan (completed)
 
 **Connects To**:
-- [[memory://01-research/resources/satpin-foundation-words-v2]] - SATPIN word lists
-- [[memory://00-project-overview/phonics-flashcards-project-brief]] - Main project brief
+- [[memory://05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words-v2]] - SATPIN word lists
+- [[memory://00-project-overview/project-brief]] - Main project brief
 
 ---
 
