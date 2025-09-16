@@ -1,6 +1,5 @@
 ---
 title: AI Context Handover Template
-type: Template
 permalink: 00-project-overview/ai-guides/context-handover-template
 entity_type: template
 status: ✅ Completed

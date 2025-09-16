@@ -1,6 +1,5 @@
 ---
 title: Project Commit Log
-type: Log
 permalink: 00-project-overview/ai-guides/project-commit-log
 entity_type: log
 status: 🔄 Ongoing
@@ -11,6 +10,43 @@ tags:
 - project-history
 - ai-maintained
 - ai-guide
+---
+
+### 16/09/2025 - Navigation README and WIP Licensing
+**Commit Message:**
+```
+Docs(root): add navigation README and establish WIP licensing
+
+- Created navigational README for GitHub landing page
+  - Added project structure overview (folders 00-06)
+  - Added quick-start links to key documents
+  - Added current status indicator
+  - No content duplication, only wayfinding
+- Established "All Rights Reserved" license for WIP phase
+  - Protects work-in-progress materials
+  - Notes future intent for educational CC licensing
+  - Maintains flexibility for future phonics generator
+- Deleted outdated git-collaboration-guide.md
+  - No longer needed with new project structure
+- Verified entity_type consistency across all documents
+  - Confirmed only entity_type needed (not entity property)
+  - All documents follow consistent pattern
+
+BREAKING CHANGE: None
+Note: License can be relaxed to CC BY-NC-SA once materials validated
+```
+
+**Key Decisions:**
+- Use "All Rights Reserved" during WIP phase, transition to CC BY-NC-SA when ready
+- Keep root README purely navigational (no content duplication)
+- entity_type is sufficient for properties (no entity field needed)
+- Future phonics generator may have separate proprietary licensing
+
+**Documents Modified:**
+- `README.md` (created with navigation structure)
+- `00-project-overview/ai-guides/git-collaboration-guide.md` (deleted)
+- `00-project-overview/ai-guides/project-commit-log.md` (updated)
+
 ---
 
 ### 16/09/2025 - Project Documentation System Overhaul

@@ -1,6 +1,5 @@
 ---
-title: Systematic Phonics Sequencing Best Practices
-type: Research
+title: RD-003 Systematic Phonics Sequencing Best Practices
 permalink: 01-research-foundation/research-docs/RD-003-systematic-phonics-sequencing
 entity_type: research-document
 status:

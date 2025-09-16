@@ -1,6 +1,5 @@
 ---
 title: SATPIN Sentence Progression
-type: resource
 permalink: 05-phonics/05.1-satpin-mastery/resources/satpin-sentence-progression
 entity_type: resource
 status: 🔄 In Progress

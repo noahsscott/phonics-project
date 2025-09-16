@@ -1,6 +1,5 @@
 ---
-title: EB Teaching Guide for Phonics and Reading to Bilingual Children in HK
-type: Research
+title: RD-001 EB Teaching Guide for Phonics and Reading to Bilingual Children in HK
 permalink: 01-research-foundation/research-docs/RD-001-teaching-guide-phonics-bilingual-hk
 entity_type: research-document
 status:

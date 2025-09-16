@@ -1,15 +1,14 @@
 ---
 title: Resource Document Template
-type: Template
 permalink: 01-research-foundation/templates/resource-doc-template
 entity_type: template
 status: ✅ Completed
 created: 2025-08-09
 modified: 2025-08-09
 tags:
-- template
-- resource
-- documentation
+  - template
+  - resource
+  - documentation
 ---
 
 <!-- 

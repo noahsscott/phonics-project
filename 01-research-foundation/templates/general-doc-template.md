@@ -1,6 +1,5 @@
 ---
 title: General Document Template
-type: Template
 permalink: 01-research/templates/general-doc-template
 entity_type: template
 status: ✅ Completed

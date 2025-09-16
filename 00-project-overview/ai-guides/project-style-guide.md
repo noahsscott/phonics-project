@@ -1,6 +1,5 @@
 ---
 title: Project Documentation Style Guide
-type: Guide
 permalink: 00-project-overview/ai-guides/project-style-guide
 entity_type: guide
 status: ✅ Completed

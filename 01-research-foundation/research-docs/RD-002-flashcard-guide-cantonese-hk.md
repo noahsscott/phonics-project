@@ -1,6 +1,5 @@
 ---
-title: Phonics Flashcard Guide for Cantonese-Speaking Children in HK
-type: Research
+title: RD-002 Phonics Flashcard Guide for Cantonese-Speaking Children in HK
 permalink: 01-research-foundation/research-docs/RD-002-flashcard-guide-cantonese-hk
 entity_type: research-document
 status: ✅ Completed

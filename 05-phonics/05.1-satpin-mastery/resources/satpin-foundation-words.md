@@ -1,6 +1,5 @@
 ---
 title: SATPIN Foundation Words
-type: resource
 permalink: 05-phonics/05.1-satpin-mastery/resources/satpin-foundation-words
 entity_type: resource
 status: 🔄 In Progress

@@ -1,6 +1,5 @@
 ---
 title: Pre-Phonics Materials Development Plan
-type: planning
 permalink: 01-research-foundation/planning/pre-phonics-materials-development-plan
 entity_type: planning-document
 status: 🔄 In Planning

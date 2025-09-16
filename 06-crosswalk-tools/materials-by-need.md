@@ -1,15 +1,14 @@
 ---
 title: Materials by Need
-type: guide
 permalink: 06-crosswalk-tools/materials-by-need
 entity_type: planning-document
 status: 🔄 Ready to Execute
 created: 2025-09-15
 modified: 2025-09-15
 tags:
-- migration
-- restructure
-- checklist
+  - migration
+  - restructure
+  - checklist
 ---
 
 # Materials by Need

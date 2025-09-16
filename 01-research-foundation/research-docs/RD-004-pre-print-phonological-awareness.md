@@ -1,6 +1,5 @@
 ---
-title: Pre-Print Phonological Awareness Development
-type: Research
+title: RD-004 Pre-Print Phonological Awareness Development
 permalink: 01-research-foundation/research-docs/RD-004-pre-print-phonological-awareness
 entity_type: research-document
 status: 🚧 Under review

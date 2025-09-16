@@ -1,6 +1,5 @@
 ---
 title: Project Brief
-type: Overview
 permalink: 00-project-overview/project-brief
 entity_type: project-document
 status: 🚀 Active - Materials Development

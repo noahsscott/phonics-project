@@ -1,6 +1,5 @@
 ---
 title: Research Document Template
-type: Template
 permalink: 01-research-foundation/templates/research-doc-template
 entity_type: template
 status:

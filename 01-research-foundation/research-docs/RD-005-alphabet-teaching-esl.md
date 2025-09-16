@@ -1,17 +1,16 @@
 ---
-title: Alphabet Teaching Methods for ESL Learners
-type: Research
+title: RD-005 Alphabet Teaching Methods for ESL Learners
 permalink: 01-research-foundation/research-docs/RD-005-alphabet-teaching-esl
 entity_type: research-document
 status: ✅ Completed
 created: 2025-09-09
 modified: 2025-09-09
 tags:
-- research
-- alphabet
-- ESL
-- pre-literacy
-- teaching-methodology
+  - research
+  - alphabet
+  - ESL
+  - pre-literacy
+  - teaching-methodology
 ---
 
 > [!doc-research] Research Overview

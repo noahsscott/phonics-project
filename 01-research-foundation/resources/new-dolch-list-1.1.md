@@ -1,14 +1,15 @@
 ---
-type: Resource Data
+title: New Dolch List 1.1
 permalink: 01-research-foundation/resources/new-dolch-list-1.1
 entity_type: resource-data
 status: 🚧 Under review
 created: 2025-08-07
 modified: 2025-08-09
 tags:
-- resource
-- sight-words
-- high-frequency-words
+  - resource
+  - sight-words
+  - high-frequency-words
+  - dolch
 ---
 
 > [!doc-resource] Resource Overview

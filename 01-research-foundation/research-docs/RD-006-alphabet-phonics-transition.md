@@ -1,6 +1,5 @@
 ---
-title: Alphabet to Phonics Transition Readiness
-type: Research
+title: RD-006 Alphabet to Phonics Transition Readiness
 permalink: 01-research-foundation/research-docs/RD-006-alphabet-phonics-transition
 entity_type: research-document
 status: 🚧 Under review
